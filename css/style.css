@@ -584,3 +584,35 @@ nm {
   text-align: left;
 }
 
+.navbar {
+  font-size: 12px;
+  text-transform: uppercase;
+  min-height: 70px;
+  padding-top: 10px;
+}
+
+.navbar-inverse {
+  background: #E9EAEC;
+  border-color: transparent;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+  color: #245661;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover, .navbar-inverse .navbar-nav>li>a:focus {
+  color: #da564a;
+}
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:hover, .navbar-inverse .navbar-nav>.active>a:focus {
+  background: transparent;
+  color: #245661;
+}
+
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+  border-color: transparent;
+}
+
+.navbar-toggle {
+  background: #245661;
+}
