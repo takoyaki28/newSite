@@ -578,7 +578,9 @@ nm {
   color: #999;
 }
 
+/* 個別カスタム */
 .txt {
   display: inline-block;
   text-align: left;
 }
+
