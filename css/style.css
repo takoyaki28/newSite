@@ -225,14 +225,14 @@ hr {
 }
 
 .intro .large-header {
-  /* background-image: url('../img/remo.png');*/
+   background-image: url('../img/remo.jpg');
 }
 
 .main-title {
   position: absolute;
   margin: 0;
   padding: 0;
-  color: #f9f1e9;
+  color: #080707;
   text-align: center;
   top: 40%;
   left: 50%;
@@ -244,7 +244,7 @@ hr {
   position: absolute;
   margin: 0;
   padding: 0;
-  color: #f9f1e9;
+  color: #080707;
   text-align: center;
   top: 60%;
   left: 50%;
@@ -272,7 +272,7 @@ hr {
 /* BLACK SECTION */
 
 #blk {
-  background: #181818;
+  background: #0a0041;
   padding-bottom: 80px;
   padding-top: 80px;
 }

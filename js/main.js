@@ -37,3 +37,9 @@ $(function(){
   $("#header").load("header.html");
   $("#footer").load("footer.html");
 });
+
+
+$(function(){
+	//テキストの読み込み
+	$("#txtLoad").load("info/arclink.html")
+});
