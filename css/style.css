@@ -619,8 +619,8 @@ nm {
 
 .item_box{
   position:relative;
-  width:320px;
-  height:100px;
+  width:450px;
+  height:125px;
   padding:3%;
   border:solid 1px #CCC;
   margin-bottom:20px;
@@ -669,3 +669,11 @@ nm {
 .red {
   font-size: 12px;
 }
+
+@media screen and (max-width: 450px) {
+  .item_box{
+    width:100%;
+    height:100%;
+  }
+}
+  
