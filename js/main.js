@@ -62,7 +62,7 @@ function arc(){
  */ 
 function setSnsShare(shareUrl, description) {
   // 都合に合わせてセレクタは変えてね！
-  setTwitterLink(".twitter_back", shareUrl,description);
+  setTwitterLink(".twitter_back a", shareUrl,description);
   setFacebookLink(".facebook_back a", shareUrl, description);
   setGooglePlusLink(".google_back a", shareUrl, description);
   setHatebuLink(".hatena_back a", shareUrl, description);
