@@ -1,21 +1,18 @@
 <footer>
 
 <!-- ********** SNS ********** -->
-<div>
+  <div class="centered">
     <ul>
-      <li>
+      <li class="facebook">
         <div class="facebook_back"><a href="" target="_blank" title="Facebookでシェア"><img src="https://kimachk.com/img/social_facebook.png" alt="facebook"></a></div>
       </li>
-      <li>
+      <li class="twitter">
         <div class="twitter_back"><a href="" target="_blank" title="Twitterでシェア"><img src="https://kimachk.com/img/social_twitter.png" alt="twitter"></a></div>
       </li>
-      <li>
-        <div class="google_back"><a href="" target="_blank" title="Google+で共有"><img src="https://kimachk.com/img/social_google.png" alt="googleplus"></a></div>
-      </li>
-      <li>
+      <li class="hatena">
         <div class="hatena_back"><a href="" target="_blank" title="はてなブックマークに登録"><img src="https://kimachk.com/img/social_hatena.png" alt="はてなブックマーク"></a></div>
       </li>
-      <li>
+      <li class="line">
         <div class="line_back"><a href="" target="_blank" title="LINEに送る"><img src="https://kimachk.com/img/social_line.png" alt="LINE"></a></div>
       </li>
     </ul>
@@ -193,7 +190,10 @@
       </div>
     </div>
   </div>
-  <script>setSnsShare("https://kimachk.com/","説明");</script>
+  <script>
+    //setSnsShare("https://kimachk.com/","説明");
+    setSnsShare($("meta[property='og:url']").attr("content"),$("meta[property='og:title']").attr("content"));
+  </script>
 </footer>
 
 

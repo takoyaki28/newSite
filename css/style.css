@@ -740,3 +740,24 @@ nm {
   font-size: 14px;
   color: #080808;
 }
+
+.facebook{
+  display: inline-block;
+  width: 4%;
+}
+.twitter{
+  display: inline-block;
+  width: 4%;
+}
+.google{
+  display: inline-block;
+  width: 4%;
+}
+.hatena{
+  display: inline-block;
+  width: 4%;
+}
+.line{
+  display: inline-block;
+  width: 4%;
+}
