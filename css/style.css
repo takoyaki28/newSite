@@ -734,3 +734,9 @@ nm {
 	color: #666666;
 }
   
+/* リンク */
+.detail h6{
+  font-weight: bold;
+  font-size: 14px;
+  color: #080808;
+}
