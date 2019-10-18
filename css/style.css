@@ -670,7 +670,7 @@ nm {
   font-size: 12px;
 }
 
-@media screen and (max-width: 450px) {
+@media only screen and (max-width: 768px) {
   .item_box{
     width:320px;
     height:100px;
