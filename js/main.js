@@ -36,6 +36,7 @@ jQuery(document).ready(function( $ ) {
 $(function(){
   $("#header").load("header.html");
   $("#footer").load("footer.html");
+  setSnsShare("https://kimachk.com/","説明");
 });
 
 
@@ -50,6 +51,7 @@ function arc(){
   obj = $("#linkselect").val();
   $("#txtLoad").load("info/"+obj+".html");
 }
+
 
 
 // SNSの各種カウントを実装するためのjavascript。
