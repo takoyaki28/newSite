@@ -693,13 +693,7 @@ nm {
   font-weight: 400;
 }
 
-.aligncenter {
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
-  clear: both;
-}
-
-.mb {
-  margin-bottom: 50px;
+hr {
+  border: 1px solid #5a5a5a;
+  width: 70px;
 }
