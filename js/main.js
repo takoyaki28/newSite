@@ -104,15 +104,7 @@ function setLineLink(shareSelector, shareUrl, description) {
 function setShareEvent(selector, snsName, shareUrl) {
   $(selector).on('click', function(e){
       var current = this;
-      //　*** Googleアナリティクスにイベント送らないなら、以下のコードは不要 ***
-      // 'share'の文字列は任意に変えてもよい（Googleアナリティクス上の表示文字列として使われる）
-      // 'nonInteraction' : 1にしないと、直帰率がおかしくなる（イベント発行したユーザーは直帰扱いでなくなる）ので注意
-      ga('send', 'social', snsName, 'share', shareUrl, {
-          'nonInteraction': 1
-      });
-      // *** Googleアナリティクス送信ここまで ****
-
-      // このあたりは適当に書き換えて下さい
+     // このあたりは適当に書き換えて下さい
       window.open(current.href, '_blank', 'width=600, height=600, menubar=no, toolbar=no, scrollbars=yes');
       e.preventDefault();
   }); 
