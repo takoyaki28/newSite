@@ -619,8 +619,8 @@ nm {
 
 .item_box{
   position:relative;
-  width:400px;
-  height:120px;
+  width:320px;
+  height:100px;
   padding:3%;
   border:solid 1px #CCC;
   margin-bottom:20px;
