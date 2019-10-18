@@ -36,7 +36,6 @@ jQuery(document).ready(function( $ ) {
 $(function(){
   $("#header").load("header.html");
   $("#footer").load("footer.html");
-  setSnsShare("https://kimachk.com/","説明");
 });
 
 
@@ -63,7 +62,7 @@ function arc(){
  */ 
 function setSnsShare(shareUrl, description) {
   // 都合に合わせてセレクタは変えてね！
-  setTwitterLink(".twitter_back a", shareUrl,description);
+  setTwitterLink(".twitter_back", shareUrl,description);
   setFacebookLink(".facebook_back a", shareUrl, description);
   setGooglePlusLink(".google_back a", shareUrl, description);
   setHatebuLink(".hatena_back a", shareUrl, description);
