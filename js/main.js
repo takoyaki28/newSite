@@ -41,7 +41,12 @@ $(function(){
 
 $(function(){
 	//テキストの読み込み
-  $("#txtLoad").load("info/arclink.html");
   $("#txtLoadmain").load("info/newlink.html");
   $("#txtLoadgood").load("info/goodlink.html");
 });
+
+function arc(){
+  $("#arclist").remove()
+  obj = $("#linkselect").val();
+  $("#txtLoad").load("info/"+obj+".html");
+}
