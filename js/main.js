@@ -51,6 +51,12 @@ function arc(){
   $("#txtLoad").load("info/"+obj+".html");
 }
 
+function category(){
+  $("#categorylist").remove()
+  obj = $("#linkselect").val();
+  $("#txtLoad").load("info/category/"+obj+".html");
+}
+
 
 
 // SNSの各種カウントを実装するためのjavascript。
