@@ -33,24 +33,27 @@ jQuery(document).ready(function( $ ) {
   });
 });
 
+//初期表示時のhtml読み込み
 $(function(){
   $("#header").load("header.html");
   $("#footer").load("footer.html");
 });
 
-
+//新着とおすすめ
 $(function(){
 	//テキストの読み込み
   $("#txtLoadmain").load("info/newlink.html");
   $("#txtLoadgood").load("info/goodlink.html");
 });
 
+//アーカイブの月選択
 function arc(){
   $("#arclist").remove()
   obj = $("#linkselect").val();
   $("#txtLoad").load("info/"+obj+".html");
 }
 
+//カテゴリー選択
 function category(){
   $("#categorylist").remove()
   obj = $("#linkselect").val();
@@ -110,7 +113,6 @@ function setLineLink(shareSelector, shareUrl, description) {
 function setShareEvent(selector, snsName, shareUrl) {
   $(selector).on('click', function(e){
       var current = this;
-     // このあたりは適当に書き換えて下さい
       window.open(current.href, '_blank', 'width=600, height=600, menubar=no, toolbar=no, scrollbars=yes');
       e.preventDefault();
   }); 
