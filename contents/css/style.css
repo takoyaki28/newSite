@@ -721,3 +721,12 @@ hr {
   display: inline-block;
   width: 40px;
 }
+
+#buy {
+  background-color: rgb(158, 188, 247);
+}
+
+.size{
+  width:450px;
+  height:450px;
+}
