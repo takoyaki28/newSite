@@ -42,22 +42,22 @@ function setSnsShare(shareUrl, description) {
 
 
 function setTwitterLink(shareSelector, shareUrl, description) {
-  $(shareSelector).attr("href", "https://twitter.com/share?shareUrl=" + shareUrl + "&text=" + encodeURIComponent(description));
+  $(shareSelector).attr("href", "https://twitter.com/share?shareUrl=" + encodeURIComponent(shareUrl) + "&text=" + encodeURIComponent(description));
   setShareEvent(shareSelector, 'Twitter', shareUrl);
 }
 
 function setFacebookLink(shareSelector, shareUrl, description) {
-  $(shareSelector).attr("href", "https://www.facebook.com/sharer/sharer.php?u=" + shareUrl + "&t=" + encodeURIComponent(description));    
+  $(shareSelector).attr("href", "https://www.facebook.com/sharer/sharer.php?u=" + encodeURIComponent(shareUrl) + "&t=" + encodeURIComponent(description));    
   setShareEvent(shareSelector, 'Facebook', shareUrl);
 }
 
 function setGooglePlusLink(shareSelector, shareUrl, description) {
-  $(shareSelector).attr("href", "https://plus.google.com/share?shareUrl=" + shareUrl);
+  $(shareSelector).attr("href", "https://plus.google.com/share?shareUrl=" + encodeURIComponent(shareUrl));
   setShareEvent(shareSelector, 'Google+', shareUrl);
 }
 
 function setHatebuLink(shareSelector, shareUrl, description) {
-  $(shareSelector).attr("href", "https://b.hatena.ne.jp/add?mode=confirm&shareUrl=" + shareUrl + "&description=" + encodeURIComponent(description));
+  $(shareSelector).attr("href", "https://b.hatena.ne.jp/add?mode=confirm&shareUrl=" + encodeURIComponent(shareUrl) + "&description=" + encodeURIComponent(description));
   setShareEvent(shareSelector, 'Hatena Bookmark', shareUrl);
 }
 
