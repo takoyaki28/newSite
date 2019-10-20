@@ -75,7 +75,7 @@ function setLineLink(shareSelector, shareUrl, description) {
 function setShareEvent(selector, snsName, shareUrl) {
   $(selector).on('click', function(e){
       var current = this;
-      window.open(shareUrl, '_blank', 'width=600, height=600, menubar=no, toolbar=no, scrollbars=yes');
+      window.open(current.href, '_blank', 'width=600, height=600, menubar=no, toolbar=no, scrollbars=yes');
       e.preventDefault();
   }); 
 }
