@@ -674,6 +674,7 @@ nm {
   .item_box{
     width:320px;
     height:100px;
+    overflow: scroll;
   }
 }
 
