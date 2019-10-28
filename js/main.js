@@ -31,7 +31,18 @@ jQuery(document).ready(function( $ ) {
       }
     }
   });
+
+  //ブラウザバックでリロード
+  window.onpageshow = function(event) {
+    if (event.persisted) {
+       //window.location.reload();
+       arc();
+       category();
+    }
+  };
+
 });
+
 
 //初期表示時のhtml読み込み
 $(function(){
@@ -42,22 +53,22 @@ $(function(){
 //新着とおすすめ
 $(function(){
 	//テキストの読み込み
-  $("#txtLoadmain").load("info/newlink.html");
-  $("#txtLoadgood").load("info/goodlink.html");
+  $("#txtLoadmain").load("info/linkList.html .new");
+  $("#txtLoadgood").load("info/linkList.html .good");
 });
 
 //アーカイブの月選択
 function arc(){
-  $("#arclist").remove()
   obj = $("#linkselect").val();
-  $("#txtLoad").load("info/"+obj+".html");
+  $("."+obj).remove();
+  $("#txtLoad").load("info/linkList.html "+"."+obj);
 }
 
 //カテゴリー選択
 function category(){
-  $("#categorylist").remove()
   obj = $("#linkselect").val();
-  $("#txtLoad").load("info/category/"+obj+".html");
+  $("."+obj).remove();
+  $("#txtLoad").load("info/linkList.html "+"."+obj);
 }
 
 
