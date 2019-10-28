@@ -32,17 +32,18 @@ jQuery(document).ready(function( $ ) {
     }
   });
 
-  //ブラウザバックでリロード
-  window.onpageshow = function(event) {
-    if (event.persisted) {
-       //window.location.reload();
-       arc();
-       category();
-    }
-  };
+
 
 });
 
+//ブラウザバックでリロード
+window.onpageshow = function(event) {
+  if (event.persisted) {
+      window.location.reload();
+      arc();
+      category();
+  }
+};
 
 //初期表示時のhtml読み込み
 $(function(){
