@@ -37,13 +37,11 @@ jQuery(document).ready(function( $ ) {
 });
 
 //ブラウザバックでリロード
-window.onpageshow = function(event) {
-  if (event.persisted) {
-      window.location.reload();
-      arc();
-      category();
-  }
-};
+$(window).unload(function(){
+  arc();
+  category();
+});
+
 
 //初期表示時のhtml読み込み
 $(function(){
