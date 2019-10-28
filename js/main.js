@@ -35,8 +35,9 @@ jQuery(document).ready(function( $ ) {
 });
 
 window.onpageshow = function(event) {
-  if (event.persisted) {
-  }
+  //if (event.persisted) {
+    alert("動作確認");
+  //}
 };
  
  
