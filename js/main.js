@@ -57,14 +57,12 @@ $(function(){
 //アーカイブの月選択
 function arc(){
   obj = $("#linkselect").val();
-  //$("."+obj).remove();
   $("#txtLoad").load("info/linkList.html "+"."+obj);
 }
 
 //カテゴリー選択
 function category(){
   obj = $("#linkselect").val();
-  //$("."+obj).remove();
   $("#txtLoad").load("info/linkList.html "+"."+obj); 
 }
 
