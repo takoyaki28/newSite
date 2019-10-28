@@ -52,7 +52,7 @@ window.onpageshow = function(event) {
     var arr = getCookieArray();
     var result = arr["option"];
     
-    $("#linkselect").val(document.cookie);
+    $("#linkselect").val(result);
     document.getElementById('#linkselect').onchange();
   //}
 };
