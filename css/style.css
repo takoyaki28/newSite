@@ -624,7 +624,8 @@ nm {
   padding:3%;
   border:solid 1px #CCC;
   margin-bottom:20px;
-  background-color: #E9EAEC
+  background-color: #E9EAEC;
+  overflow: scroll;
 }
 
 .item_box a{
