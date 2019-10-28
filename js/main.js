@@ -32,9 +32,15 @@ jQuery(document).ready(function( $ ) {
     }
   });
 
-
-
 });
+
+window.onpageshow = function(event) {
+  if (event.persisted) {
+    document.getElementById('#linkselect').onchange();
+  }
+};
+ 
+ 
 
 //初期表示時のhtml読み込み
 $(function(){
