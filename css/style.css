@@ -625,7 +625,7 @@ nm {
   border:solid 1px #CCC;
   margin-bottom:20px;
   background-color: #E9EAEC;
-  overflow: scroll;
+  overflow: :hidden;
 }
 
 .item_box a{
@@ -675,7 +675,7 @@ nm {
   .item_box{
     width:320px;
     height:100px;
-    overflow: scroll;
+    overflow: :hidden;
   }
 }
 
