@@ -34,7 +34,11 @@ jQuery(document).ready(function( $ ) {
 
 });
 
-window.onpageshow = function(event) {
+select.onload = function() {
+  arc();
+};
+
+window.onpageshow = function() {
   //if (event.persisted) {
   //}
 };
