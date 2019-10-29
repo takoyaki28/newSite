@@ -35,7 +35,8 @@ jQuery(document).ready(function( $ ) {
 });
 
 window.addEventListener("pageshow",function(){
-	arc();
+  arc();
+  category();
 },false);
 
 //初期表示時のhtml読み込み
