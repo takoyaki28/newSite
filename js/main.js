@@ -33,7 +33,10 @@ jQuery(document).ready(function( $ ) {
   });
 
 });
- 
+
+window.addEventListener("pageshow",function(){
+	arc();
+},false);
 
 //初期表示時のhtml読み込み
 $(function(){
