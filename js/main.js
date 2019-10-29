@@ -38,9 +38,8 @@ select.onload = function() {
   arc();
 };
 
-window.onpageshow = function() {
-  //if (event.persisted) {
-  //}
+select.onpageshow = function() {
+  arc();
 };
  
  
