@@ -33,15 +33,6 @@ jQuery(document).ready(function( $ ) {
   });
 
 });
-
-select.onload = function() {
-  arc();
-};
-
-select.onpageshow = function() {
-  arc();
-};
- 
  
 
 //初期表示時のhtml読み込み
