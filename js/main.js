@@ -46,12 +46,25 @@ $(function(){
   $("#footer").load("footer.html");
 });
 
-//新着とおすすめ
+//おすすめページリンク
 $(function(){
 	//テキストの読み込み
-  $("#txtLoadmain").load("info/linkList.html .new");
   $("#txtLoadgood").load("info/linkList.html .good");
 });
+
+//新着リンク
+$(function (){
+  $.ajax({
+      url　: 'info/linkList.html',
+      dataType : 'html',
+      success　: function(data){
+        for(var i=0;i<10;i++){
+          $('#txtLoadmain').append($(data).filter('.new')[i]);
+        }
+      },
+  });
+});
+
 
 //アーカイブの月選択
 function arc(){
