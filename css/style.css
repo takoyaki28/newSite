@@ -621,7 +621,7 @@ nm {
   position:relative;
   width:450px;
   height:125px;
-  padding:3%;
+  padding:1%;
   border:solid 1px #CCC;
   margin-bottom:20px;
   background-color: #E9EAEC;
@@ -639,13 +639,13 @@ nm {
 
 .item_box img{
   display:block;
-  width:25%;
+  width:30%;
   float:left;
 }
 
 .item_box .detail{
-  width:60%;
-  margin-left:5%;
+  width:65%;
+  margin-left:4%;
   float:left;
 }
 
