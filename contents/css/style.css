@@ -741,3 +741,96 @@ hr {
 .blue{
   background: #f3f3f3;
 }
+
+/* 個別カスタム */
+.txt {
+  display: inline-block;
+  text-align: left;
+}
+
+.navbar {
+  font-size: 12px;
+  text-transform: uppercase;
+  min-height: 70px;
+  padding-top: 10px;
+}
+
+.navbar-inverse {
+  background: #E9EAEC;
+  border-color: transparent;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+  color: #245661;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover, .navbar-inverse .navbar-nav>li>a:focus {
+  color: #da564a;
+}
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:hover, .navbar-inverse .navbar-nav>.active>a:focus {
+  background: transparent;
+  color: #245661;
+}
+
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+  border-color: transparent;
+}
+
+.navbar-toggle {
+  background: #245661;
+}
+
+.item_box{
+  position:relative;
+  width:450px;
+  height:125px;
+  padding:1%;
+  border:solid 1px #CCC;
+  margin-bottom:20px;
+  background-color: #E9EAEC;
+  overflow: hidden;
+}
+
+.item_box a{
+  position:absolute;
+  top:0;
+  left:0;
+  width:100%;
+  height:100%;
+  text-indent:-999px;
+}
+
+.item_box img{
+  display:block;
+  width:30%;
+  float:left;
+}
+
+.item_box .detail{
+  width:65%;
+  margin-left:4%;
+  float:left;
+}
+
+/* floatによる回り込みをクリア */
+.clearfix:after {
+  display:block;
+  clear:both;
+  height:0px;
+  visibility:hidden;
+  content:".";
+}
+
+.clearfix {
+  min-height: 1px; /*IE6、7対策*/
+}
+
+
+.item_box:hover{
+  background-color: #e0d4f5;
+}
+
+.red {
+  font-size: 12px;
+}
