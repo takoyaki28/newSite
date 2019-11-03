@@ -759,3 +759,11 @@ nm {
   display: inline-block;
   width: 40px;
 }
+
+.shiro{
+  color: #f3f6f7;
+}
+
+.shiro p{
+  color: #f3f6f7;
+}
