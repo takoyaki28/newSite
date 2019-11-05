@@ -1,2 +1,16 @@
 plugins:
  - jekyll-sitemap
+
+defaults:
+-
+  scope:
+    path:            "https://kimachk.com/info/*"
+  values:
+    sitemap:         false
+
+defaults:
+-
+  scope:
+    path:            "https://kimachk.com/footer.html"
+  values:
+    sitemap:         false
