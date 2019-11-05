@@ -56,7 +56,7 @@ $(function(){
 $(function (){
   $.ajax({
       url　: 'info/linkList.txt',
-      dataType : 'txt',
+      dataType : 'html',
       success　: function(data){
         for(var i=0;i<10;i++){
           $('#txtLoadmain').append($(data).filter('.new')[i]);
