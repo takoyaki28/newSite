@@ -1,4 +1,12 @@
 <div class="item_box clear_fix 201911 seikatu good new">
+                <img src="https://kimachk.com/contents/img/blogimg/20191105_01_01.jpg" alt="ズボラーネット" style="height:100%"/>
+                <div class="detail"　style="height:100%">
+                        <h6>洗濯かごがいらなくなる。洗濯の手間を軽減するのはズボラーネット</h6>
+                        <span class="red">投稿日：2019/11/05</span>
+                        <a href="https://kimachk.com/contents/201911/20191105_01.html">リンク</a>
+                </div>
+</div>
+<div class="item_box clear_fix 201911 seikatu good new">
                 <img src="https://kimachk.com/contents/img/blogimg/20191104_02_01.jpg" alt="いい枕" style="height:100%"/>
                 <div class="detail"　style="height:100%">
                         <h6>横向きに寝ると肩が痛い？どの向きで寝ても高さが一定の枕で解決。</h6>
