@@ -49,14 +49,14 @@ $(function(){
 //おすすめページリンク
 $(function(){
 	//テキストの読み込み
-  $("#txtLoadgood").load("info/linkList.html .good");
+  $("#txtLoadgood").load("info/linkList.txt .good");
 });
 
 //新着リンク
 $(function (){
   $.ajax({
-      url　: 'info/linkList.html',
-      dataType : 'html',
+      url　: 'info/linkList.txt',
+      dataType : 'txt',
       success　: function(data){
         for(var i=0;i<10;i++){
           $('#txtLoadmain').append($(data).filter('.new')[i]);
@@ -69,13 +69,13 @@ $(function (){
 //アーカイブの月選択
 function arc(){
   obj = $("#linkselect").val();
-  $("#txtLoad").load("info/linkList.html "+"."+obj);
+  $("#txtLoad").load("info/linkList.txt "+"."+obj);
 }
 
 //カテゴリー選択
 function category(){
   obj = $("#linkselect").val();
-  $("#txtLoad").load("info/linkList.html "+"."+obj); 
+  $("#txtLoad").load("info/linkList.txt "+"."+obj); 
 }
 
 
