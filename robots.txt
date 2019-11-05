@@ -1,0 +1,4 @@
+User-agent : *
+Disallow :  https://kimachk.com/info/
+Disallow :  https://kimachk.com/footer.html
+Sitemap : https://kimachk.com/sitemap.xml
