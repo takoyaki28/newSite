@@ -39,7 +39,7 @@ p {
   font-weight: 400;
   font-size: 16px;
   line-height: 26px;
-  color: #666;
+  color: rgb(15, 15, 15);
   margin-top: 10px;
 }
 
@@ -210,6 +210,24 @@ input {
   padding-top: 20px;
   font-weight: 400;
   font-size: 40px;
+}
+
+#h h2 {
+  padding-bottom: 10px;
+  border-bottom: solid 2px #745433;
+}
+
+#h div h2{
+  padding-bottom: 10px;
+  border-bottom: solid 1px #080808;
+}
+
+#h h3{
+  padding: 0.5em;/*文字周りの余白*/
+  color: #494949;/*文字色*/
+  background: #fffaf4;/*背景色*/
+  border-left: solid 5px #ff7958;/*左線（実線 太さ 色）*/
+  border-bottom: solid 3px #dab49f;/*下線*/
 }
 
 #h .big {
@@ -841,4 +859,8 @@ hr {
     height:100px;
     overflow: hidden;
   }
+}
+
+.keikou{
+  background: linear-gradient(transparent 70%, yellow 70%);
 }
