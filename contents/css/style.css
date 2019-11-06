@@ -127,7 +127,7 @@ a {
   -o-transition: background-color .4s linear, color .4s linear;
   -ms-transition: background-color .4s linear, color .4s linear;
   transition: background-color .4s linear, color .4s linear;
-  color: #1abc9c;
+  color: #1a5bbc;
 }
 
 a:hover, a:focus {
@@ -233,6 +233,14 @@ input {
 #h .big {
   font-size: 22px;
   color: #da564a;
+}
+
+.orborder{
+  padding: 0.5em 1em;
+  /*margin: 2em 0;*/
+  background: #f3f3f3;
+  border-top: solid 5px #5d627b;
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.22);
 }
 
 @media (max-width: 768px) {
