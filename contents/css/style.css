@@ -872,3 +872,17 @@ hr {
 .keikou{
   background: linear-gradient(transparent 70%, yellow 70%);
 }
+
+/*--簡単リンクカスタマイズ--*/
+/* --- ボタンサイズ --- */
+div.easyLink-box div.easyLink-info p.easyLink-info-btn a{
+  padding:1px !important;
+}
+@media screen and (min-width: 704px) {  div.easyLink-box div.easyLink-info p.easyLink-info-btn a{
+  margin-bottom:10px !important;
+  }}
+/* --- ボタン下空白を削除 --- */
+div.easyLink-box{padding:10px;}
+div.easyLink-box div.easyLink-info p.easyLink-info-btn a:last-child {
+  margin-bottom: 0 !important;
+}
