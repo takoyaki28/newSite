@@ -873,18 +873,27 @@ hr {
   background: linear-gradient(transparent 70%, yellow 70%);
 }
 
-/*--簡単リンクカスタマイズ--*/
-/* --- ボタンサイズ --- */
+/* --------- ボタンサイズ、配置 --------- */
 div.easyLink-box div.easyLink-info p.easyLink-info-btn a{
-  padding:1px !important;
-  width:90%;
+	padding: 2px 0 !important;
+	margin: 3px !important;
+	width: 30% !important;
+	min-width: 70px !important;
+	max-width: 100px !important;
+	display: inline-block !important;
 }
-@media screen and (min-width: 704px) {  div.easyLink-box div.easyLink-info p.easyLink-info-btn a{
-  margin-bottom:10px !important;
-}}
 
-/* --- ボタン下空白を削除 --- */
-div.easyLink-box{padding:10px;}
-div.easyLink-box div.easyLink-info p.easyLink-info-btn a:last-child {
-  margin-bottom: 0 !important;
+div.easyLink-box div.easyLink-info p.easyLink-info-btn a:nth-child(2n){
+	margin-left:none !important;
+}
+
+
+@media screen and (min-width: 704px) {
+	div.easyLink-box div.easyLink-info p.easyLink-info-btn{
+		justify-content:flex-start !important;
+	}
+
+	div.easyLink-box div.easyLink-info p.easyLink-info-btn a:nth-child(2n){
+		margin-left:none !important;
+	}
 }
