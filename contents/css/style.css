@@ -654,11 +654,23 @@ table.table tr td.td-last {
 
 #portfolio .portfolio-info {
   position: absolute;
-  top: 50%;
+  top: 70%;
   left: 50%;
+
+  width: 100%;
+  padding: 1em 0;
+
   -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
 }
+
+#portfolio .portfolio-info h2{
+  background: rgba(0,0,0,.6);
+  text-align: center;
+  margin: 0;
+  padding: 0 0.8em;
+}
+
 
 /* News Section */
 
@@ -876,10 +888,6 @@ hr {
 
 /*---簡単リンク---*/
 /* --------- ボタンサイズ、配置 --------- */
-
-div.easyLink-box{
-  padding-top:2px;
-}
 
 
 
