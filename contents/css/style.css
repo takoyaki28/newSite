@@ -892,7 +892,7 @@ hr {
 div.easyLink-box div.easyLink-info p.easyLink-info-btn a{
 	padding: 2px 0 !important;
 	margin: 3px !important;
-	width: 200px !important;
+	width: 95% !important;
 	min-width: 70px !important;
 	max-width: 100% !important;
   display: inline-block !important;
