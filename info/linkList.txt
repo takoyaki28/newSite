@@ -1,4 +1,12 @@
 <div class="item_box clear_fix 201911 seikatu good new">
+                <img src="https://kimachk.com/contents/img/blogimg/20191109_01_01.jpg" alt="家事の時短グッズと便利グッズ" style="height:100%"/>
+                <div class="detail"　style="height:100%">
+                        <h6>家事の時短グッズと便利グッズ50選【2019年】</h6>
+                        <span class="red">投稿日：2019/11/09</span>
+                        <a href="https://kimachk.com/contents/201911/20191109_01.html">リンク</a>
+                </div>
+</div>
+<div class="item_box clear_fix 201911 seikatu good new">
                 <img src="https://kimachk.com/contents/img/blogimg/20191105_01_01.jpg" alt="ズボラーネット" style="height:100%"/>
                 <div class="detail"　style="height:100%">
                         <h6>洗濯かごがいらなくなる。洗濯の手間を軽減するのはズボラーネット</h6>
@@ -6,7 +14,7 @@
                         <a href="https://kimachk.com/contents/201911/20191105_01.html">リンク</a>
                 </div>
 </div>
-<div class="item_box clear_fix 201911 seikatu good new">
+<div class="item_box clear_fix 201911 seikatu new">
                 <img src="https://kimachk.com/contents/img/blogimg/20191104_02_01.jpg" alt="いい枕" style="height:100%"/>
                 <div class="detail"　style="height:100%">
                         <h6>横向きに寝ると肩が痛い？どの向きで寝ても高さが一定の枕で解決。</h6>
@@ -46,7 +54,7 @@
                         <a href="https://kimachk.com/contents/201911/20191102_01.html">リンク</a>
                 </div>
 </div>
-<div class="item_box clear_fix 201911 kangae good new">
+<div class="item_box clear_fix 201911 kangae new">
                 <img src="https://kimachk.com/contents/img/blogimg/20191101_01_01.jpg" alt="不安を楽に" style="height:100%"/>
                 <div class="detail"　style="height:100%">
                         <h6>指摘されたら全否定された気持ちになる。そんな気持ちを少しでも楽にする考え方</h6>
@@ -86,7 +94,7 @@
                 <a href="https://kimachk.com/contents/201910/20191028_01.html">リンク</a>
         </div>
 </div>
-<div class="item_box clear_fix 201910 seikatu good new">
+<div class="item_box clear_fix 201910 seikatu new">
         <img src="https://kimachk.com/contents/img/blogimg/20191027_02_01.jpg" alt="マットレス" style="height:100%"/>
         <div class="detail"　style="height:100%">
                 <h6>「ボンネルコイル」と「ポケットコイル」。いいマットレスを選んで快適で楽な睡眠を。</h6>
@@ -94,7 +102,7 @@
                 <a href="https://kimachk.com/contents/201910/20191027_02.html">リンク</a>
         </div>
 </div>
-<div class="item_box clear_fix 201910 seikatu good new">
+<div class="item_box clear_fix 201910 seikatu new">
         <img src="https://kimachk.com/contents/img/blogimg/20191027_01_01.jpg" alt="簡単なスキンケア" style="height:100%"/>
         <div class="detail">
                 <h6>面倒なスキンケアを時短。NULL オールインワン化粧水ミストで楽に保湿</h6>
@@ -126,7 +134,7 @@
                 <a href="https://kimachk.com/contents/201910/20191023_01.html">リンク</a>
         </div>
 </div>
-<div class="item_box clear_fix 201910 seikatu good new">
+<div class="item_box clear_fix 201910 seikatu new">
         <img src="https://kimachk.com/contents/img/blogimg/20191022_01_01.jpg" alt="楽に暖まる" style="height:100%"  style="height:100%"/>
         <div class="detail">
             <h6>簡単に暖まる。セラミックヒーターの暖まる範囲と速度は？</h6>
