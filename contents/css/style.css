@@ -876,9 +876,6 @@ hr {
 
 /*---簡単リンク---*/
 /* --------- ボタンサイズ、配置 --------- */
-div.easyLink-box{
-	padding: 4px 0 !important;
-}
 
 div.easyLink-box div.easyLink-info p.easyLink-info-btn a{
 	padding: 2px 0 !important;
