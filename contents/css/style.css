@@ -243,6 +243,15 @@ input {
   box-shadow: 0 3px 5px rgba(0, 0, 0, 0.22);
 }
 
+.orborder2{
+  padding: 0.5em 1em;
+  /*margin: 2em 0;*/
+  background: #f1fae6;
+  border-radius: 20px 20px 20px 20px;  
+  border-top: solid 5px #5d627b;
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.22);
+}
+
 @media (max-width: 768px) {
   #h h1 {
     padding-top: 10px;

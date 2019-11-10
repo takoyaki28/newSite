@@ -1,5 +1,13 @@
+<div class="item_box clear_fix 201911 service good new">
+                <img src="https://kimachk.com/contents/img/blogimg/20191110_01_01.jpg" alt="家事の時短グッズと便利グッズ" style="height:100%"/>
+                <div class="detail"　style="height:100%">
+                        <h6>インターネットでお仕事の依頼。作業を任せて楽をする！</h6>
+                        <span class="red">投稿日：2019/11/10</span>
+                        <a href="https://kimachk.com/contents/201911/20191110_01.html">リンク</a>
+                </div>
+</div>
 <div class="item_box clear_fix 201911 seikatu good new">
-                <img src="https://kimachk.com/contents/img/blogimg/20191109_01_01.jpg" alt="家事の時短グッズと便利グッズ" style="height:100%"/>
+                <img src="https://kimachk.com/contents/img/blogimg/20191109_01_01.jpg" alt="インターネットでお仕事の依頼。作業を任せて楽をする！" style="height:100%"/>
                 <div class="detail"　style="height:100%">
                         <h6>家事の時短グッズと便利グッズ50選【2019年】</h6>
                         <span class="red">投稿日：2019/11/09</span>
