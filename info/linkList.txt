@@ -1,5 +1,13 @@
 <div class="item_box clear_fix 201911 kangae new">
-                <img src="https://kimachk.com/contents/img/blogimg/20191111_01_01.jpg" alt="きづらいと感じる。そんな時は心の境界線を意識する" style="height:100%"/>
+                <img src="https://kimachk.com/contents/img/blogimg/20191113_01_01.jpg" alt="【ずとまよ】疲れたら心が震える曲を聞こう【ずっと真夜中でいいのに。】" style="height:100%"/>
+                <div class="detail"　style="height:100%">
+                        <h6>【ずとまよ】疲れたら心が震える曲を聞こう【ずっと真夜中でいいのに。】</h6>
+                        <span class="red">投稿日：2019/11/13</span>
+                        <a href="https://kimachk.com/contents/201911/20191113_01.html">リンク</a>
+                </div>
+</div>
+<div class="item_box clear_fix 201911 kangae new">
+                <img src="https://kimachk.com/contents/img/blogimg/20191111_01_01.jpg" alt="生きづらいと感じる。そんな時は心の境界線を意識する" style="height:100%"/>
                 <div class="detail"　style="height:100%">
                         <h6>生きづらいと感じる。そんな時は心の境界線を意識する</h6>
                         <span class="red">投稿日：2019/11/11</span>
