@@ -95,17 +95,17 @@
                 </div>
 </div>
 <div class="item_box clear_fix 201910 seikatu new">
-        <img src="https://kimachk.com/contents/img/blogimg/20191030_01_01.jpg" alt="ホットサンドメーカー" style="height:100%"/>
+        <img src="https://kimachk.com/contents/img/blogimg/20191030_01_01.jpg" alt="ホットサンドメーカーで餅を焼く。簡単朝食づくり。" style="height:100%"/>
         <div class="detail"　style="height:100%">
-                <h6>ホットサンドメーカーで簡単朝食づくり。お餅が焼けちゃう。</h6>
+                <h6>ホットサンドメーカーで餅を焼く。簡単朝食づくり。</h6>
                 <span class="red">投稿日：2019/10/30</span>
                 <a href="https://kimachk.com/contents/201910/20191030_01.html">リンク</a>
         </div>
 </div>
 <div class="item_box clear_fix 201910 seikatu new">
-        <img src="https://kimachk.com/contents/img/blogimg/20191029_01_01.jpg" alt="ヘアクリーム" style="height:100%"/>
+        <img src="https://kimachk.com/contents/img/blogimg/20191029_01_01.jpg" alt="べたつかない、香りがよいヘアクリームで髪を整える" style="height:100%"/>
         <div class="detail"　style="height:100%">
-                <h6>楽にスタイリング。香りがよいヘアクリーム。</h6>
+                <h6>べたつかない、香りがよいヘアクリームで髪を整える</h6>
                 <span class="red">投稿日：2019/10/29</span>
                 <a href="https://kimachk.com/contents/201910/20191029_01.html">リンク</a>
         </div>
