@@ -233,8 +233,13 @@ hr {
   padding: 0;
   margin-top: 36px;
   margin-bottom: 36px;
-  color: #080707;
+  /*color: #080707;*/
   text-align: center;
+  color: #fff;
+  text-shadow: 1px 1px 0 #000,
+               -1px 1px 0 #000,
+               1px -1px 0 #000,
+               -1px -1px 0 #000;  
   /*top: 50%;
   left: 50%;
   -webkit-transform: translate3d(-50%, -50%, 0);
