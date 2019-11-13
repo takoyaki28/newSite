@@ -25,7 +25,7 @@
 <div class="item_box clear_fix 201911 seikatu good new">
                 <img src="https://kimachk.com/contents/img/blogimg/20191109_01_01.jpg" alt="家事の時短グッズと便利グッズ50選【2019年】" style="height:100%"/>
                 <div class="detail"　style="height:100%">
-                        <h6>家事の時短グッズと便利グッズ50選【2019年】</h6>
+                        <h6>家事を楽にするグッズ50選。見つけたいものが見つかる。</h6>
                         <span class="red">投稿日：2019/11/09</span>
                         <a href="https://kimachk.com/contents/201911/20191109_01.html">リンク</a>
                 </div>
@@ -49,7 +49,7 @@
 <div class="item_box clear_fix 201911 seikatu good new">
                 <img src="https://kimachk.com/contents/img/blogimg/20191104_01_01.jpg" alt="汚れ落としを楽にしたい" style="height:100%"/>
                 <div class="detail"　style="height:100%">
-                        <h6>汚れ落としを楽にしたいなら、汚れの種類によって洗剤を変えること</h6>
+                        <h6>汚れの種類と洗剤。種類によって変えることで楽に汚れ落とし！</h6>
                         <span class="red">投稿日：2019/11/04</span>
                         <a href="https://kimachk.com/contents/201911/20191104_01.html">リンク</a>
                 </div>
@@ -57,7 +57,7 @@
 <div class="item_box clear_fix 201911 seikatu good new">
                 <img src="https://kimachk.com/contents/img/blogimg/20191103_02_01.jpg" alt="足の匂いを楽に消臭" style="height:100%"/>
                 <div class="detail"　style="height:100%">
-                        <h6>足の酸っぱい匂い、臭い匂い、グランズレメディで楽に消臭</h6>
+                        <h6>足が臭い、酸っぱい匂い、グランズレメディで楽に消臭</h6>
                         <span class="red">投稿日：2019/11/03</span>
                         <a href="https://kimachk.com/contents/201911/20191103_02.html">リンク</a>
                 </div>
@@ -73,7 +73,7 @@
 <div class="item_box clear_fix 201911 service good new">
                 <img src="https://kimachk.com/contents/img/blogimg/20191102_01_01.jpg" alt="エアコン掃除" style="height:100%"/>
                 <div class="detail"　style="height:100%">
-                        <h6>エアコンの掃除は楽できない。素直に業者を利用したほうがいい理由とは？</h6>
+                        <h6>【おすすめ業者あり】エアコンの掃除は楽できない。業者を利用したほうがいい理由とは？</h6>
                         <span class="red">投稿日：2019/11/02</span>
                         <a href="https://kimachk.com/contents/201911/20191102_01.html">リンク</a>
                 </div>
@@ -121,7 +121,7 @@
 <div class="item_box clear_fix 201910 seikatu new">
         <img src="https://kimachk.com/contents/img/blogimg/20191027_02_01.jpg" alt="マットレス" style="height:100%"/>
         <div class="detail"　style="height:100%">
-                <h6>「ボンネルコイル」と「ポケットコイル」。いいマットレスを選んで快適で楽な睡眠を。</h6>
+                <h6>マットレスの硬さと選び方。いいマットレスを選んで快適で楽な睡眠を。</h6>
                 <span class="red">投稿日：2019/10/27</span>
                 <a href="https://kimachk.com/contents/201910/20191027_02.html">リンク</a>
         </div>
@@ -137,7 +137,7 @@
 <div class="item_box clear_fix 201910 seikatu good new">
         <img src="https://kimachk.com/contents/img/blogimg/20191026_01_01.jpg" alt="ジェルボール" style="height:100%"/>
         <div class="detail">
-                <h6>まるで宝石箱！洗濯を時間短縮し手間を減らす洗剤「ジェルボール」</h6>
+                <h6>ジェルボールとは？洗濯を時間短縮し手間を減らす洗剤。</h6>
                 <span class="red">投稿日：2019/10/26</span>
                 <a href="https://kimachk.com/contents/201910/20191026_01.html">リンク</a>
         </div>
@@ -161,7 +161,7 @@
 <div class="item_box clear_fix 201910 seikatu new">
         <img src="https://kimachk.com/contents/img/blogimg/20191022_01_01.jpg" alt="楽に暖まる" style="height:100%"  style="height:100%"/>
         <div class="detail">
-            <h6>簡単に暖まる。セラミックヒーターの暖まる範囲と速度は？</h6>
+            <h6>セラミックヒーターの利点は？暖まる速度にある。</h6>
             <span class="red">投稿日：2019/10/22</span>
             <a href="https://kimachk.com/contents/201910/20191022_01.html">リンク</a>
         </div>
