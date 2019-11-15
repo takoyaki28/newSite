@@ -19,6 +19,7 @@ $(function(){
       '<a href="https://kimachk.com/contents/201911/20191104_01.html" class="portfolio-popup"style="height: 100%;"><img src="https://kimachk.com/contents/img/blogimg/20191104_01_01.jpg" alt="" style="height: 100%;"><div class="portfolio-overlay"><div class="portfolio-info"><h2>汚れの種類と洗剤。種類によって変えることで楽に汚れ落とし！</h2></div></div></a>',
       '<a href="https://kimachk.com/contents/201911/20191104_02.html" class="portfolio-popup"style="height: 100%;"><img src="https://kimachk.com/contents/img/blogimg/20191104_02_01.jpg" alt="" style="height: 100%;"><div class="portfolio-overlay"><div class="portfolio-info"><h2>横向きに寝ると肩が痛い？どの向きで寝ても高さが一定の枕で解決</h2></div></div></a>',
       '<a href="https://kimachk.com/contents/201911/20191105_01.html" class="portfolio-popup"style="height: 100%;"><img src="https://kimachk.com/contents/img/blogimg/20191105_01_01.jpg" alt="" style="height: 100%;"><div class="portfolio-overlay"><div class="portfolio-info"><h2>洗濯かごがいらなくなる。洗濯の手間を軽減するのはズボラーネット</h2></div></div></a>',
+      '<a href="https://kimachk.com/contents/201911/20191115_01.html" class="portfolio-popup"style="height: 100%;"><img src="https://kimachk.com/contents/img/blogimg/20191115_01_01.jpg" alt="" style="height: 100%;"><div class="portfolio-overlay"><div class="portfolio-info"><h2>ネットワークビジネスに勧誘された体験談。見分け方もご紹介！</h2></div></div></a>'
     ];
 
     var no = Math.floor(Math.random() * linklist.length);
