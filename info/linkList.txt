@@ -1,4 +1,12 @@
 <div class="item_box clear_fix 201911 seikatu good new">
+                <img src="https://kimachk.com/contents/img/blogimg/20191116_01_01.jpg" alt="【ブラックフライデー2019年】amazonで11月22日9時からセール開催。今のうちに準備しよう！" style="height:100%"/>
+                <div class="detail"　style="height:100%">
+                        <h6>【ブラックフライデー2019年】amazonで11月22日9時からセール開催。今のうちに準備しよう！</h6>
+                        <span class="red">投稿日：2019/11/16</span>
+                        <a href="https://kimachk.com/contents/201911/20191116_01.html">リンク</a>
+                </div>
+</div>
+<div class="item_box clear_fix 201911 seikatu good new">
                 <img src="https://kimachk.com/contents/img/blogimg/20191115_01_01.jpg" alt="ネットワークビジネスに勧誘された体験談。見分け方もご紹介！" style="height:100%"/>
                 <div class="detail"　style="height:100%">
                         <h6>ネットワークビジネスに勧誘された体験談。見分け方もご紹介！</h6>
