@@ -1,4 +1,12 @@
 <div class="item_box clear_fix 201911 torendo">
+                <img src="https://kimachk.com/contents/img/blogimg/20191117_02_01.jpg" alt="三所攻めの意味と由来を解説！26年ぶりに決まった決まり手。" style="height:100%"/>
+                <div class="detail"　style="height:100%">
+                        <h6>三所攻めの意味と由来を解説！26年ぶりに決まった決まり手。</h6>
+                        <span class="red">投稿日：2019/11/17</span>
+                        <a href="https://kimachk.com/contents/201911/20191117_02.html">リンク</a>
+                </div>
+</div>
+<div class="item_box clear_fix 201911 torendo">
                 <img src="https://kimachk.com/contents/img/blogimg/20191117_01_01.jpg" alt="スター・ウォーズのロケ地、サハラ砂漠はどんなところ？【景色の画像あり】" style="height:100%"/>
                 <div class="detail"　style="height:100%">
                         <h6>スター・ウォーズのロケ地、サハラ砂漠はどんなところ？【景色の画像あり】</h6>
