@@ -41,7 +41,7 @@
 <div class="item_box clear_fix 201911 kangae new">
                 <img src="https://kimachk.com/contents/img/blogimg/20191111_01_01.jpg" alt="生きづらいと感じる。そんな時は心の境界線を意識する" style="height:100%"/>
                 <div class="detail"　style="height:100%">
-                        <h6>生きづらいと感じる。どうしたらいいのか？</h6>
+                        <h6>生きづらいと感じる。どうしたらいいのか？心の境界線。</h6>
                         <span class="red">投稿日：2019/11/11</span>
                         <a href="https://kimachk.com/contents/201911/20191111_01.html">リンク</a>
                 </div>
