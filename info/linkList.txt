@@ -1,3 +1,11 @@
+<div class="item_box clear_fix 201911 seikatu good new"">
+                <img src="https://kimachk.com/contents/img/blogimg/20191118_01_01.jpg" alt="バスタオルのおすすめ素材は？マイクロファイバーが吸水性ばつぐん！" style="height:100%"/>
+                <div class="detail"　style="height:100%">
+                        <h6>バスタオルのおすすめ素材は？マイクロファイバーが吸水性ばつぐん！</h6>
+                        <span class="red">投稿日：2019/11/18</span>
+                        <a href="https://kimachk.com/contents/201911/20191118_01.html">リンク</a>
+                </div>
+</div>
 <div class="item_box clear_fix torendo">
                 <img src="https://kimachk.com/contents/img/blogimg/20191117_02_01.jpg" alt="三所攻めの意味と由来を解説！26年ぶりに決まった決まり手。" style="height:100%"/>
                 <div class="detail"　style="height:100%">
