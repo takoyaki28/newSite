@@ -1,3 +1,11 @@
+<div class="item_box clear_fix 201911 torendo">
+                <img src="https://kimachk.com/contents/img/blogimg/20191117_01_01.jpg" alt="スター・ウォーズのロケ地、サハラ砂漠はどんなところ？【景色の画像あり】" style="height:100%"/>
+                <div class="detail"　style="height:100%">
+                        <h6>スター・ウォーズのロケ地、サハラ砂漠はどんなところ？【景色の画像あり】</h6>
+                        <span class="red">投稿日：2019/11/17</span>
+                        <a href="https://kimachk.com/contents/201911/20191117_01.html">リンク</a>
+                </div>
+</div>
 <div class="item_box clear_fix 201911 seikatu new">
                 <img src="https://kimachk.com/contents/img/blogimg/20191116_01_01.jpg" alt="【ブラックフライデー2019年】amazonで11月22日9時からセール開催。今のうちに準備しよう！" style="height:100%"/>
                 <div class="detail"　style="height:100%">
