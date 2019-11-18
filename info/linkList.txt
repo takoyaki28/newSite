@@ -1,4 +1,12 @@
 <div class="item_box clear_fix 201911 seikatu good new"">
+                <img src="https://kimachk.com/contents/img/blogimg/20191119_01_01.jpg" alt="バスタオルのおすすめ素材は？マイクロファイバーが吸水性ばつぐん！" style="height:100%"/>
+                <div class="detail"　style="height:100%">
+                        <h6>珪藻土マットとは？吸水性に優れた化石のバスマット</h6>
+                        <span class="red">投稿日：2019/11/19</span>
+                        <a href="https://kimachk.com/contents/201911/20191119_01.html">リンク</a>
+                </div>
+</div>
+<div class="item_box clear_fix 201911 seikatu good new"">
                 <img src="https://kimachk.com/contents/img/blogimg/20191118_01_01.jpg" alt="バスタオルのおすすめ素材は？マイクロファイバーが吸水性ばつぐん！" style="height:100%"/>
                 <div class="detail"　style="height:100%">
                         <h6>バスタオルのおすすめ素材は？マイクロファイバーが吸水性ばつぐん！</h6>
