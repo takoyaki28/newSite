@@ -84,30 +84,51 @@
   <div id="blk">
     <div class="container">
       <div class="row"><br>
-        <h5 class="centered">★カテゴリー一覧★</h5>
-        <hr class="aligncenter mb">
-        <div class="centered cp_ipselect cp_sl02">
-          <select id="linkselect" onChange="category()">
-              <option value="">選択して下さい</option>
-              <option value="seikatu">生活・暮らし</option>
-              <option value="service">サービス</option>
-              <option value="kangae">考え方</option>
-          </select>
-        </div>
-        <div class="centered">
-              <p class="txt" id="txtLoad">
-                カテゴリーを選んであなたの見たいカテゴリーの記事を見ることができます。<br>
-                上の"選択してください"をクリック、またはタップしてください。<br>
-                表示されたカテゴリーから見たいカテゴリーを選択します。
-                選択したカテゴリーの記事一覧が表示されます。<br>
-                表示されたカテゴリーごとの記事の一覧の中から見たい記事を選択してください。<br>
-                「気まぐれチェック」では暮らしに役立つ情報やサービス、便利グッズなどを紹介しています。<br>
-                きっとお役にたてますので、是非見ていってください。<br>
-                また、心が疲れているかた向けに精神が楽になる方法もありますのでよろしければそちらもご覧ください。<br>
-                皆さまの探しているものが見つかりますように。               
-              <br><br>
-            </p>
-        </div>
+        <div class="col-md-7">         
+          <h5 class="centered">★カテゴリー一覧★</h5>
+          <hr class="aligncenter mb">
+          <div class="centered cp_ipselect cp_sl02">
+            <select id="linkselect" onChange="category()">
+                <option value="">選択して下さい</option>
+                <option value="seikatu">生活・暮らし</option>
+                <option value="service">サービス</option>
+                <option value="kangae">考え方</option>
+            </select>
+          </div>
+          <div class="centered">
+                <p class="txt shiro" id="txtLoad">
+                  カテゴリーを選んであなたの見たいカテゴリーの記事を見ることができます。<br>
+                  上の"選択してください"をクリック、またはタップしてください。<br>
+                  表示されたカテゴリーから見たいカテゴリーを選択します。
+                  選択したカテゴリーの記事一覧が表示されます。<br>
+                  表示されたカテゴリーごとの記事の一覧の中から見たい記事を選択してください。<br>
+                  「気まぐれチェック」では暮らしに役立つ情報やサービス、便利グッズなどを紹介しています。<br>
+                  きっとお役にたてますので、是非見ていってください。<br>
+                  また、心が疲れているかた向けに精神が楽になる方法もありますのでよろしければそちらもご覧ください。<br>
+                  皆さまの探しているものが見つかりますように。               
+                <br><br>
+              </p>
+          </div>
+        </div>  
+        <div class="col-md-5">
+            <div class="centered orborder">
+              <p class="txt side1">
+                スポンサーリンク
+              </p>
+            </div>
+            <br>
+            <div class="centered orborder" style="width:100%">
+                <div class="side2" style="width:100%">
+                  おすすめ記事
+                </div>
+                <div class="fontsizeup">
+                  <a href="https://kimachk.com/contents/201911/20191109_01.html" target="_blank"><i class="ion-android-arrow-dropright"></i>　家事を楽にするグッズ50選。見つけたいものが見つかる。</a>
+                </div>
+                <div class="fontsizeup">
+                  <a href="https://kimachk.com/contents/201911/20191115_01.html" target="_blank"><i class="ion-android-arrow-dropright"></i>　ネットワークビジネスに勧誘された体験談。見分け方もご紹介！</a>
+                </div>                
+            </div>               
+        </div>           
       </div>  
     </div>
     <!--/container-->
