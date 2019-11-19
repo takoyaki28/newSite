@@ -822,3 +822,16 @@ nm {
   font-size: 18px;
   padding: 10px;
 }
+
+.sizedown{
+  width:80%;
+  height:80%;
+}
+
+
+@media only screen and (max-width: 768px) {
+  .sizedown{
+    width:100%;
+    height:100%;
+  }
+}
