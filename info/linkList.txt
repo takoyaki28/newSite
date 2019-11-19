@@ -1,4 +1,4 @@
-<div class="item_box clear_fix 201911 seikatu good new"">
+<div class="item_box clear_fix 201911 item good new"">
                 <img src="https://kimachk.com/contents/img/blogimg/20191119_01_01.jpg" alt="バスタオルのおすすめ素材は？マイクロファイバーが吸水性ばつぐん！" style="height:100%"/>
                 <div class="detail"　style="height:100%">
                         <h6>珪藻土マットとは？吸水性に優れた化石のバスマット</h6>
@@ -6,7 +6,7 @@
                         <a href="https://kimachk.com/contents/201911/20191119_01.html">リンク</a>
                 </div>
 </div>
-<div class="item_box clear_fix 201911 seikatu good new"">
+<div class="item_box clear_fix 201911 item good new"">
                 <img src="https://kimachk.com/contents/img/blogimg/20191118_01_01.jpg" alt="バスタオルのおすすめ素材は？マイクロファイバーが吸水性ばつぐん！" style="height:100%"/>
                 <div class="detail"　style="height:100%">
                         <h6>バスタオルのおすすめ素材は？マイクロファイバーが吸水性ばつぐん！</h6>
@@ -70,7 +70,7 @@
                         <a href="https://kimachk.com/contents/201911/20191110_01.html">リンク</a>
                 </div>
 </div>
-<div class="item_box clear_fix 201911 seikatu good new">
+<div class="item_box clear_fix 201911 item good new">
                 <img src="https://kimachk.com/contents/img/blogimg/20191109_01_01.jpg" alt="家事の時短グッズと便利グッズ50選【2019年】" style="height:100%"/>
                 <div class="detail"　style="height:100%">
                         <h6>家事を楽にするグッズ50選。見つけたいものが見つかる。</h6>
@@ -78,7 +78,7 @@
                         <a href="https://kimachk.com/contents/201911/20191109_01.html">リンク</a>
                 </div>
 </div>
-<div class="item_box clear_fix 201911 seikatu good new">
+<div class="item_box clear_fix 201911 item good new">
                 <img src="https://kimachk.com/contents/img/blogimg/20191105_01_01.jpg" alt="ズボラーネット" style="height:100%"/>
                 <div class="detail"　style="height:100%">
                         <h6>洗濯かごがいらなくなる。洗濯の手間を軽減するのはズボラーネット</h6>
@@ -86,7 +86,7 @@
                         <a href="https://kimachk.com/contents/201911/20191105_01.html">リンク</a>
                 </div>
 </div>
-<div class="item_box clear_fix 201911 seikatu new">
+<div class="item_box clear_fix 201911 item new">
                 <img src="https://kimachk.com/contents/img/blogimg/20191104_02_01.jpg" alt="いい枕" style="height:100%"/>
                 <div class="detail"　style="height:100%">
                         <h6>横向きに寝ると肩が痛い？どの向きで寝ても高さが一定の枕で解決。</h6>
@@ -102,7 +102,7 @@
                         <a href="https://kimachk.com/contents/201911/20191104_01.html">リンク</a>
                 </div>
 </div>
-<div class="item_box clear_fix 201911 seikatu good new">
+<div class="item_box clear_fix 201911 item good new">
                 <img src="https://kimachk.com/contents/img/blogimg/20191103_02_01.jpg" alt="足の匂いを楽に消臭" style="height:100%"/>
                 <div class="detail"　style="height:100%">
                         <h6>足が臭い、酸っぱい匂い、グランズレメディで楽に消臭</h6>
@@ -142,7 +142,7 @@
                         <a href="https://kimachk.com/contents/201910/20191031_01.html">リンク</a>
                 </div>
 </div>
-<div class="item_box clear_fix 201910 seikatu new">
+<div class="item_box clear_fix 201910 item new">
         <img src="https://kimachk.com/contents/img/blogimg/20191030_01_01.jpg" alt="ホットサンドメーカーで餅を焼く。簡単朝食づくり。" style="height:100%"/>
         <div class="detail"　style="height:100%">
                 <h6>ホットサンドメーカーで餅を焼く。簡単朝食づくり。</h6>
@@ -150,7 +150,7 @@
                 <a href="https://kimachk.com/contents/201910/20191030_01.html">リンク</a>
         </div>
 </div>
-<div class="item_box clear_fix 201910 seikatu new">
+<div class="item_box clear_fix 201910 item new">
         <img src="https://kimachk.com/contents/img/blogimg/20191029_01_01.jpg" alt="べたつかない、香りがよいヘアクリームで髪を整える" style="height:100%"/>
         <div class="detail"　style="height:100%">
                 <h6>べたつかない、香りがよいヘアクリームで髪を整える</h6>
@@ -174,7 +174,7 @@
                 <a href="https://kimachk.com/contents/201910/20191027_02.html">リンク</a>
         </div>
 </div>
-<div class="item_box clear_fix 201910 seikatu new">
+<div class="item_box clear_fix 201910 item new">
         <img src="https://kimachk.com/contents/img/blogimg/20191027_01_01.jpg" alt="簡単なスキンケア" style="height:100%"/>
         <div class="detail">
                 <h6>面倒なスキンケアを時短。NULL オールインワン化粧水ミストで楽に保湿</h6>
@@ -182,7 +182,7 @@
                 <a href="https://kimachk.com/contents/201910/20191027_01.html">リンク</a>
         </div>
 </div>
-<div class="item_box clear_fix 201910 seikatu good new">
+<div class="item_box clear_fix 201910 item good new">
         <img src="https://kimachk.com/contents/img/blogimg/20191026_01_01.jpg" alt="ジェルボール" style="height:100%"/>
         <div class="detail">
                 <h6>ジェルボールとは？洗濯を時間短縮し手間を減らす洗剤。</h6>
@@ -198,7 +198,7 @@
                 <a href="https://kimachk.com/contents/201910/20191024_01.html">リンク</a>
         </div>
 </div>
-<div class="item_box clear_fix 201910 seikatu good new">
+<div class="item_box clear_fix 201910 item good new">
         <img src="https://kimachk.com/contents/img/blogimg/20191023_01_01.jpg" alt="熱い風呂上がりを楽にするシャンプー"  style="height:100%"/>
         <div class="detail">
                 <h6>熱い風呂あがり。楽に涼しくなれるシャンプーがある。</h6>
@@ -206,7 +206,7 @@
                 <a href="https://kimachk.com/contents/201910/20191023_01.html">リンク</a>
         </div>
 </div>
-<div class="item_box clear_fix 201910 seikatu new">
+<div class="item_box clear_fix 201910 item new">
         <img src="https://kimachk.com/contents/img/blogimg/20191022_01_01.jpg" alt="楽に暖まる" style="height:100%"  style="height:100%"/>
         <div class="detail">
             <h6>セラミックヒーターの利点は？暖まる速度にある。</h6>
