@@ -34,7 +34,7 @@ h1, h2, h3, h4, h5, h6 {
 
 p {
   padding: 0;
-  margin-bottom: 12px;
+  margin-bottom: 16px;
   font-family: 'Montserrat', sans-serif;
   font-weight: 400;
   font-size: 16px;
@@ -246,10 +246,10 @@ input {
 .orborder2{
   padding: 0.5em 1em;
   /*margin: 2em 0;*/
-  background: #f1fae6;
+  background: #fae6e7;
   border-radius: 20px 20px 20px 20px;  
-  border-top: solid 5px #5d627b;
   box-shadow: 0 3px 5px rgba(0, 0, 0, 0.22);
+  border: 1px solid #5a5a5a;  
 }
 
 @media (max-width: 768px) {
@@ -893,6 +893,16 @@ hr {
 /*--蛍光ペン--*/
 .keikou{
   background: linear-gradient(transparent 70%, yellow 70%);
+}
+
+.simpleborder{
+  border: 1px solid #5a5a5a;
+}
+
+blockquote{
+  padding: 10px 20px;
+  margin:0;
+  font-size:14.5px;
 }
 
 /*---簡単リンク---*/
