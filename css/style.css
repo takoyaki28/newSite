@@ -801,6 +801,7 @@ nm {
 .orborder{
   border: 1px solid #250fe4;
   background: #fffefe;
+  width:90%;
 }
 
 .side1 {
@@ -818,6 +819,6 @@ nm {
 }
 
 .fontsizeup{
-  font-size: 20px;
+  font-size: 18px;
   padding: 10px;
 }
