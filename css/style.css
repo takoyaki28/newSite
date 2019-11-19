@@ -824,13 +824,15 @@ nm {
 }
 
 .sizedown{
-  width:80%;
+  margin-right: 10px;
+  margin-left: 10px;
   height:80%;
 }
 
 
 @media only screen and (max-width: 768px) {
   .sizedown{
+    margin:0;
     width:100%;
     height:100%;
   }
