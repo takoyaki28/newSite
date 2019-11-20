@@ -1,5 +1,5 @@
 <div class="item_box clear_fix 201911 item good new"">
-                <img src="https://kimachk.com/contents/img/blogimg/20191119_01_01.jpg" alt="バスタオルのおすすめ素材は？マイクロファイバーが吸水性ばつぐん！" style="height:100%"/>
+                <img src="https://kimachk.com/contents/img/blogimg/20191119_01_01.jpg" alt="珪藻土マットとは？吸水性に優れた化石のバスマット"/>
                 <div class="detail"　style="height:100%">
                         <h6>珪藻土マットとは？吸水性に優れた化石のバスマット</h6>
                         <span class="red">投稿日：2019/11/19</span>
@@ -7,7 +7,7 @@
                 </div>
 </div>
 <div class="item_box clear_fix 201911 item good new"">
-                <img src="https://kimachk.com/contents/img/blogimg/20191118_01_01.jpg" alt="バスタオルのおすすめ素材は？マイクロファイバーが吸水性ばつぐん！" style="height:100%"/>
+                <img src="https://kimachk.com/contents/img/blogimg/20191118_01_01.jpg" alt="バスタオルのおすすめ素材は？マイクロファイバーが吸水性ばつぐん！"/>
                 <div class="detail"　style="height:100%">
                         <h6>バスタオルのおすすめ素材は？マイクロファイバーが吸水性ばつぐん！</h6>
                         <span class="red">投稿日：2019/11/18</span>
@@ -15,7 +15,7 @@
                 </div>
 </div>
 <div class="item_box clear_fix torendo">
-                <img src="https://kimachk.com/contents/img/blogimg/20191117_02_01.jpg" alt="三所攻めの意味と由来を解説！26年ぶりに決まった決まり手。" style="height:100%"/>
+                <img src="https://kimachk.com/contents/img/blogimg/20191117_02_01.jpg" alt="三所攻めの意味と由来を解説！26年ぶりに決まった決まり手。"/>
                 <div class="detail"　style="height:100%">
                         <h6>三所攻めの意味と由来を解説！26年ぶりに決まった決まり手。</h6>
                         <span class="red">投稿日：2019/11/17</span>
@@ -23,7 +23,7 @@
                 </div>
 </div>
 <div class="item_box clear_fix torendo">
-                <img src="https://kimachk.com/contents/img/blogimg/20191117_01_01.jpg" alt="スター・ウォーズのロケ地、サハラ砂漠はどんなところ？【景色の画像あり】" style="height:100%"/>
+                <img src="https://kimachk.com/contents/img/blogimg/20191117_01_01.jpg" alt="スター・ウォーズのロケ地、サハラ砂漠はどんなところ？【景色の画像あり】"/>
                 <div class="detail"　style="height:100%">
                         <h6>スター・ウォーズのロケ地、サハラ砂漠はどんなところ？【景色の画像あり】</h6>
                         <span class="red">投稿日：2019/11/17</span>
@@ -31,7 +31,7 @@
                 </div>
 </div>
 <div class="item_box clear_fix 201911 seikatu new">
-                <img src="https://kimachk.com/contents/img/blogimg/20191116_01_01.jpg" alt="【ブラックフライデー2019年】amazonで11月22日9時からセール開催。今のうちに準備しよう！" style="height:100%"/>
+                <img src="https://kimachk.com/contents/img/blogimg/20191116_01_01.jpg" alt="【ブラックフライデー2019年】amazonで11月22日9時からセール開催。今のうちに準備しよう！"/>
                 <div class="detail"　style="height:100%">
                         <h6>【ブラックフライデー2019年】amazonで11月22日9時からセール開催。準備しよう！</h6>
                         <span class="red">投稿日：2019/11/16</span>
@@ -39,7 +39,7 @@
                 </div>
 </div>
 <div class="item_box clear_fix 201911 seikatu good new">
-                <img src="https://kimachk.com/contents/img/blogimg/20191115_01_01.jpg" alt="ネットワークビジネスに勧誘された体験談。見分け方もご紹介！" style="height:100%"/>
+                <img src="https://kimachk.com/contents/img/blogimg/20191115_01_01.jpg" alt="ネットワークビジネスに勧誘された体験談。見分け方もご紹介！"/>
                 <div class="detail"　style="height:100%">
                         <h6>ネットワークビジネスに勧誘された体験談。見分け方もご紹介！</h6>
                         <span class="red">投稿日：2019/11/15</span>
@@ -47,7 +47,7 @@
                 </div>
 </div>
 <div class="item_box clear_fix 201911 kangae new">
-                <img src="https://kimachk.com/contents/img/blogimg/20191113_01_01.jpg" alt="【ずとまよ】疲れたら心が震える曲を聞こう【ずっと真夜中でいいのに。】" style="height:100%"/>
+                <img src="https://kimachk.com/contents/img/blogimg/20191113_01_01.jpg" alt="【ずとまよ】疲れたら心が震える曲を聞こう【ずっと真夜中でいいのに。】"/>
                 <div class="detail"　style="height:100%">
                         <h6>【ずとまよ】疲れたら心が震える曲を聞こう【ずっと真夜中でいいのに。】</h6>
                         <span class="red">投稿日：2019/11/13</span>
@@ -55,7 +55,7 @@
                 </div>
 </div>
 <div class="item_box clear_fix 201911 kangae new">
-                <img src="https://kimachk.com/contents/img/blogimg/20191111_01_01.jpg" alt="生きづらいと感じる。そんな時は心の境界線を意識する" style="height:100%"/>
+                <img src="https://kimachk.com/contents/img/blogimg/20191111_01_01.jpg" alt="生きづらいと感じる。そんな時は心の境界線を意識する"/>
                 <div class="detail"　style="height:100%">
                         <h6>生きづらいと感じる。どうしたらいいのか？そんな時は心の境界線を意識する</h6>
                         <span class="red">投稿日：2019/11/11</span>
@@ -63,7 +63,7 @@
                 </div>
 </div>
 <div class="item_box clear_fix 201911 service good new">
-                <img src="https://kimachk.com/contents/img/blogimg/20191110_01_01.jpg" alt="インターネットでお仕事の依頼。作業を任せて楽をする！" style="height:100%"/>
+                <img src="https://kimachk.com/contents/img/blogimg/20191110_01_01.jpg" alt="インターネットでお仕事の依頼。作業を任せて楽をする！"/>
                 <div class="detail"　style="height:100%">
                         <h6>インターネットでお仕事の依頼。作業を任せて楽をする！</h6>
                         <span class="red">投稿日：2019/11/10</span>
@@ -71,7 +71,7 @@
                 </div>
 </div>
 <div class="item_box clear_fix 201911 item good new">
-                <img src="https://kimachk.com/contents/img/blogimg/20191109_01_01.jpg" alt="家事の時短グッズと便利グッズ50選【2019年】" style="height:100%"/>
+                <img src="https://kimachk.com/contents/img/blogimg/20191109_01_01.jpg" alt="家事の時短グッズと便利グッズ50選【2019年】"/>
                 <div class="detail"　style="height:100%">
                         <h6>家事を楽にするグッズ50選。見つけたいものが見つかる。</h6>
                         <span class="red">投稿日：2019/11/09</span>
@@ -79,7 +79,7 @@
                 </div>
 </div>
 <div class="item_box clear_fix 201911 item good new">
-                <img src="https://kimachk.com/contents/img/blogimg/20191105_01_01.jpg" alt="ズボラーネット" style="height:100%"/>
+                <img src="https://kimachk.com/contents/img/blogimg/20191105_01_01.jpg" alt="ズボラーネット"/>
                 <div class="detail"　style="height:100%">
                         <h6>洗濯かごがいらなくなる。洗濯の手間を軽減するのはズボラーネット</h6>
                         <span class="red">投稿日：2019/11/05</span>
@@ -87,7 +87,7 @@
                 </div>
 </div>
 <div class="item_box clear_fix 201911 item new">
-                <img src="https://kimachk.com/contents/img/blogimg/20191104_02_01.jpg" alt="いい枕" style="height:100%"/>
+                <img src="https://kimachk.com/contents/img/blogimg/20191104_02_01.jpg" alt="いい枕"/>
                 <div class="detail"　style="height:100%">
                         <h6>横向きに寝ると肩が痛い？どの向きで寝ても高さが一定の枕で解決。</h6>
                         <span class="red">投稿日：2019/11/04</span>
@@ -95,7 +95,7 @@
                 </div>
 </div>
 <div class="item_box clear_fix 201911 seikatu good new">
-                <img src="https://kimachk.com/contents/img/blogimg/20191104_01_01.jpg" alt="汚れ落としを楽にしたい" style="height:100%"/>
+                <img src="https://kimachk.com/contents/img/blogimg/20191104_01_01.jpg" alt="汚れ落としを楽にしたい"/>
                 <div class="detail"　style="height:100%">
                         <h6>汚れの種類と洗剤。種類によって変えることで楽に汚れ落とし！</h6>
                         <span class="red">投稿日：2019/11/04</span>
@@ -103,7 +103,7 @@
                 </div>
 </div>
 <div class="item_box clear_fix 201911 item good new">
-                <img src="https://kimachk.com/contents/img/blogimg/20191103_02_01.jpg" alt="足の匂いを楽に消臭" style="height:100%"/>
+                <img src="https://kimachk.com/contents/img/blogimg/20191103_02_01.jpg" alt="足の匂いを楽に消臭"/>
                 <div class="detail"　style="height:100%">
                         <h6>足が臭い、酸っぱい匂い、グランズレメディで楽に消臭</h6>
                         <span class="red">投稿日：2019/11/03</span>
@@ -111,7 +111,7 @@
                 </div>
 </div>
 <div class="item_box clear_fix 201911 seikatu good new">
-                <img src="https://kimachk.com/contents/img/blogimg/20191103_01_01.jpg" alt="片付けを楽に" style="height:100%"/>
+                <img src="https://kimachk.com/contents/img/blogimg/20191103_01_01.jpg" alt="片付けを楽に"/>
                 <div class="detail"　style="height:100%">
                         <h6>片付けを楽に。捨てて捨てて捨てまくるのがコツ。</h6>
                         <span class="red">投稿日：2019/11/03</span>
@@ -119,7 +119,7 @@
                 </div>
 </div>
 <div class="item_box clear_fix 201911 service good new">
-                <img src="https://kimachk.com/contents/img/blogimg/20191102_01_01.jpg" alt="エアコン掃除" style="height:100%"/>
+                <img src="https://kimachk.com/contents/img/blogimg/20191102_01_01.jpg" alt="エアコン掃除"/>
                 <div class="detail"　style="height:100%">
                         <h6>【おすすめ業者あり】エアコンの掃除は楽できない。業者を利用したほうがいい理由とは？</h6>
                         <span class="red">投稿日：2019/11/02</span>
@@ -127,7 +127,7 @@
                 </div>
 </div>
 <div class="item_box clear_fix 201911 kangae new">
-                <img src="https://kimachk.com/contents/img/blogimg/20191101_01_01.jpg" alt="不安を楽に" style="height:100%"/>
+                <img src="https://kimachk.com/contents/img/blogimg/20191101_01_01.jpg" alt="不安を楽に"/>
                 <div class="detail"　style="height:100%">
                         <h6>指摘されたら全否定された気持ちになる。そんな気持ちを少しでも楽にする考え方</h6>
                         <span class="red">投稿日：2019/11/01</span>
@@ -135,7 +135,7 @@
                 </div>
 </div>
 <div class="item_box clear_fix 201910 kangae good new">
-                <img src="https://kimachk.com/contents/img/blogimg/20191031_01_01.jpg" alt="時短" style="height:100%"/>
+                <img src="https://kimachk.com/contents/img/blogimg/20191031_01_01.jpg" alt="時短"/>
                 <div class="detail"　style="height:100%">
                         <h6>【少しでも】結果が同じなら時短しよう【楽したい】</h6>
                         <span class="red">投稿日：2019/10/31</span>
@@ -143,7 +143,7 @@
                 </div>
 </div>
 <div class="item_box clear_fix 201910 item new">
-        <img src="https://kimachk.com/contents/img/blogimg/20191030_01_01.jpg" alt="ホットサンドメーカーで餅を焼く。簡単朝食づくり。" style="height:100%"/>
+        <img src="https://kimachk.com/contents/img/blogimg/20191030_01_01.jpg" alt="ホットサンドメーカーで餅を焼く。簡単朝食づくり。"/>
         <div class="detail"　style="height:100%">
                 <h6>ホットサンドメーカーで餅を焼く。簡単朝食づくり。</h6>
                 <span class="red">投稿日：2019/10/30</span>
@@ -151,7 +151,7 @@
         </div>
 </div>
 <div class="item_box clear_fix 201910 item new">
-        <img src="https://kimachk.com/contents/img/blogimg/20191029_01_01.jpg" alt="べたつかない、香りがよいヘアクリームで髪を整える" style="height:100%"/>
+        <img src="https://kimachk.com/contents/img/blogimg/20191029_01_01.jpg" alt="べたつかない、香りがよいヘアクリームで髪を整える"/>
         <div class="detail"　style="height:100%">
                 <h6>べたつかない、香りがよいヘアクリームで髪を整える</h6>
                 <span class="red">投稿日：2019/10/29</span>
@@ -159,7 +159,7 @@
         </div>
 </div>
 <div class="item_box clear_fix 201910 kangae good new">
-        <img src="https://kimachk.com/contents/img/blogimg/20191028_01_01.jpg" alt="楽をするって？" style="height:100%"/>
+        <img src="https://kimachk.com/contents/img/blogimg/20191028_01_01.jpg" alt="楽をするって？"/>
         <div class="detail"　style="height:100%">
                 <h6>楽をすることは手を抜くこと？</h6>
                 <span class="red">投稿日：2019/10/28</span>
@@ -167,7 +167,7 @@
         </div>
 </div>
 <div class="item_box clear_fix 201910 seikatu new">
-        <img src="https://kimachk.com/contents/img/blogimg/20191027_02_01.jpg" alt="マットレス" style="height:100%"/>
+        <img src="https://kimachk.com/contents/img/blogimg/20191027_02_01.jpg" alt="マットレス"/>
         <div class="detail"　style="height:100%">
                 <h6>マットレスの硬さと選び方。いいマットレスを選んで快適で楽な睡眠を。</h6>
                 <span class="red">投稿日：2019/10/27</span>
@@ -175,7 +175,7 @@
         </div>
 </div>
 <div class="item_box clear_fix 201910 item new">
-        <img src="https://kimachk.com/contents/img/blogimg/20191027_01_01.jpg" alt="簡単なスキンケア" style="height:100%"/>
+        <img src="https://kimachk.com/contents/img/blogimg/20191027_01_01.jpg" alt="簡単なスキンケア"/>
         <div class="detail">
                 <h6>面倒なスキンケアを時短。NULL オールインワン化粧水ミストで楽に保湿</h6>
                 <span class="red">投稿日：2019/10/27</span>
@@ -183,7 +183,7 @@
         </div>
 </div>
 <div class="item_box clear_fix 201910 item good new">
-        <img src="https://kimachk.com/contents/img/blogimg/20191026_01_01.jpg" alt="ジェルボール" style="height:100%"/>
+        <img src="https://kimachk.com/contents/img/blogimg/20191026_01_01.jpg" alt="ジェルボール"/>
         <div class="detail">
                 <h6>ジェルボールとは？洗濯を時間短縮し手間を減らす洗剤。</h6>
                 <span class="red">投稿日：2019/10/26</span>
@@ -191,7 +191,7 @@
         </div>
 </div>
 <div class="item_box clear_fix 201910 seikatu good new">
-        <img src="https://kimachk.com/contents/img/blogimg/20191024_01_01.jpg" alt="着る毛布" style="height:100%"/>
+        <img src="https://kimachk.com/contents/img/blogimg/20191024_01_01.jpg" alt="着る毛布"/>
         <div class="detail">
                 <h6>11月に暖房は早い？暖房なしで楽に暖まれるのは着る毛布！</h6>
                 <span class="red">投稿日：2019/10/24</span>
@@ -199,7 +199,7 @@
         </div>
 </div>
 <div class="item_box clear_fix 201910 item good new">
-        <img src="https://kimachk.com/contents/img/blogimg/20191023_01_01.jpg" alt="熱い風呂上がりを楽にするシャンプー"  style="height:100%"/>
+        <img src="https://kimachk.com/contents/img/blogimg/20191023_01_01.jpg" alt="熱い風呂上がりを楽にするシャンプー" />
         <div class="detail">
                 <h6>熱い風呂あがり。楽に涼しくなれるシャンプーがある。</h6>
                 <span class="red">投稿日：2019/10/23</span>
@@ -207,7 +207,7 @@
         </div>
 </div>
 <div class="item_box clear_fix 201910 item new">
-        <img src="https://kimachk.com/contents/img/blogimg/20191022_01_01.jpg" alt="楽に暖まる" style="height:100%"  style="height:100%"/>
+        <img src="https://kimachk.com/contents/img/blogimg/20191022_01_01.jpg" alt="楽に暖まる" style="height:100%"/>
         <div class="detail">
             <h6>セラミックヒーターの利点は？暖まる速度にある。</h6>
             <span class="red">投稿日：2019/10/22</span>

@@ -850,6 +850,7 @@ hr {
 
 .item_box img{
   display:block;
+  height:100%;
   width:30%;
   float:left;
 }
