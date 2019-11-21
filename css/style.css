@@ -788,6 +788,9 @@ nm {
   display: inline-block;
   width: 40px;
 }
+.lank{
+  display: inline-block;
+}
 
 .shiro{
   color: #f3f6f7;
