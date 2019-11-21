@@ -637,7 +637,8 @@ nm {
 
 .item_box{
   position:relative;
-  width:450px;
+  /*  width:450px;*/
+  width:100%;
   padding:1%;
   border:solid 1px #CCC;
   margin-bottom:20px;
@@ -655,8 +656,10 @@ nm {
 }
 
 .item_box img{
-  height:246px
-  /*display:block;
+  width:100%;
+  height:100%;
+  /*  height:246px;
+  display:block;
   width:30%;
   float:left;*/
 }
@@ -665,6 +668,10 @@ nm {
   width:90%;
   margin-left:4%;
   float:left;
+}
+
+.item_box_width{
+  width:450px;
 }
 
 /* floatによる回り込みをクリア */
@@ -691,7 +698,8 @@ nm {
 
 @media only screen and (max-width: 768px) {
   .item_box{
-    width:320px;
+    width:100%;
+    /*width:320px;*/
     overflow: hidden;
   }
   .item_box img{

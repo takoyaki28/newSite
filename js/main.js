@@ -49,7 +49,7 @@ $(function(){
 //おすすめページリンク
 $(function(){
 	//テキストの読み込み
-  $("#txtLoadgood").load("info/linkList.txt .good");
+  $("#txtLoadgood").load("info/linkList.txt .good").addClass("item_box_width");
 });
 
 //新着リンク
@@ -58,9 +58,12 @@ $(function (){
       url　: 'info/linkList.txt',
       dataType : 'html',
       success　: function(data){
-        for(var i=0;i<10;i++){
-          $('#txtLoadmain').append($(data).filter('.new')[i]);
-        }
+        $('#txtLoadmain').append($(data).filter('.new')[0]);
+        $('#txtLoadmain2').append($(data).filter('.new')[1]);
+        $('#txtLoadmain3').append($(data).filter('.new')[2]);
+        $('#txtLoadmain4').append($(data).filter('.new')[3]);
+        $('#txtLoadmain5').append($(data).filter('.new')[4]);
+        $('#txtLoadmain6').append($(data).filter('.new')[5]);
       },
   });
 });
@@ -69,13 +72,13 @@ $(function (){
 //アーカイブの月選択
 function arc(){
   obj = $("#linkselect").val();
-  $("#txtLoad").load("info/linkList.txt "+"."+obj);
+  $("#txtLoad").load("info/linkList.txt "+"."+obj).addClass("item_box_width");
 }
 
 //カテゴリー選択
 function category(){
   obj = $("#linkselect").val();
-  $("#txtLoad").load("info/linkList.txt "+"."+obj); 
+  $("#txtLoad").load("info/linkList.txt "+"."+obj).addClass("item_box_width"); 
 }
 
 
