@@ -1,7 +1,7 @@
 <div class="item_box clear_fix 201911 item good new"">
                 <img src="https://kimachk.com/contents/img/blogimg/20191123_01_01.jpg" alt="サーモスのタンブラーの保温時間と保冷時間は？実際に使った感想など"/>
                 <div class="detail"　style="height:100%">
-                        <h6>サーモスのタンブラーの保温時間と保冷時間は？実際に使った感想など】</h6>
+                        <h6>サーモスのタンブラーの保温時間と保冷時間は？実際に使った感想など</h6>
                         <span class="red">投稿日：2019/11/23</span>
                         <a href="https://kimachk.com/contents/201911/20191123_01.html">リンク</a>
                 </div>
