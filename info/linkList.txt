@@ -1,3 +1,11 @@
+<div class="item_box clear_fix 201911 item good new"">
+                <img src="https://kimachk.com/contents/img/blogimg/20191123_01_01.jpg" alt="サーモスのタンブラーの保温時間と保冷時間は？実際に使った感想など"/>
+                <div class="detail"　style="height:100%">
+                        <h6>サーモスのタンブラーの保温時間と保冷時間は？実際に使った感想など】</h6>
+                        <span class="red">投稿日：2019/11/23</span>
+                        <a href="https://kimachk.com/contents/201911/20191123_01.html">リンク</a>
+                </div>
+</div>
 <div class="item_box clear_fix 201911 ref good new"">
                 <img src="https://kimachk.com/contents/img/blogimg/20191121_01_01.jpg" alt="壁をぶち抜く費用・相場はいくら？【複数の事例あり】"/>
                 <div class="detail"　style="height:100%">
@@ -70,7 +78,7 @@
                         <a href="https://kimachk.com/contents/201911/20191111_01.html">リンク</a>
                 </div>
 </div>
-<div class="item_box clear_fix 201911 service good new">
+<div class="item_box clear_fix 201911 service new">
                 <img src="https://kimachk.com/contents/img/blogimg/20191110_01_01.jpg" alt="インターネットでお仕事の依頼。作業を任せて楽をする！"/>
                 <div class="detail"　style="height:100%">
                         <h6>インターネットでお仕事の依頼。作業を任せて楽をする！</h6>
@@ -198,7 +206,7 @@
                 <a href="https://kimachk.com/contents/201910/20191026_01.html">リンク</a>
         </div>
 </div>
-<div class="item_box clear_fix 201910 seikatu good new">
+<div class="item_box clear_fix 201910 item new">
         <img src="https://kimachk.com/contents/img/blogimg/20191024_01_01.jpg" alt="着る毛布"/>
         <div class="detail">
                 <h6>11月に暖房は早い？暖房なしで楽に暖まれるのは着る毛布！</h6>
