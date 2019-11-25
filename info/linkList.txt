@@ -1,3 +1,11 @@
+<div class="item_box clear_fix 201911 service good new">
+                <img src="https://kimachk.com/contents/img/blogimg/20191125_01_01.jpg" alt="amazonと楽天安いのはどっち？送料、ポイント込みでお得を比較"/>
+                <div class="detail"　style="height:100%">
+                        <h6>amazonと楽天安いのはどっち？送料、ポイント込みでお得を比較</h6>
+                        <span class="red">投稿日：2019/11/25</span>
+                        <a href="https://kimachk.com/contents/201911/20191125_01.html">リンク</a>
+                </div>
+</div>
 <div class="item_box clear_fix 201911 item good new">
                 <img src="https://kimachk.com/contents/img/blogimg/20191123_01_01.jpg" alt="サーモスのタンブラーの保温時間と保冷時間は？実際に使った感想など"/>
                 <div class="detail"　style="height:100%">
