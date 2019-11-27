@@ -1,4 +1,12 @@
 <div class="item_box clear_fix 201911 service good new">
+                <img src="https://kimachk.com/contents/img/blogimg/20191127_01_01.jpg" alt="amazonプライム会員の特典は何？家族で共有もできます"/>
+                <div class="detail"　style="height:100%">
+                        <h6>amazonプライム会員の特典は何？家族で共有もできます</h6>
+                        <span class="red">投稿日：2019/11/27</span>
+                        <a href="https://kimachk.com/contents/201911/20191127_01.html">リンク</a>
+                </div>
+</div>
+<div class="item_box clear_fix 201911 service good new">
                 <img src="https://kimachk.com/contents/img/blogimg/20191125_01_01.jpg" alt="amazonと楽天安いのはどっち？送料、ポイント込みでお得を比較"/>
                 <div class="detail"　style="height:100%">
                         <h6>amazonと楽天安いのはどっち？送料、ポイント込みでお得を比較</h6>
