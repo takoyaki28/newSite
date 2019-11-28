@@ -769,7 +769,8 @@ nm {
 }
   
 /* リンク */
-.detail h6{
+.detail p{
+  font-family: 'Lato', sans-serif;  
   font-weight: bold;
   font-size: 14px;
   color: #080808;
