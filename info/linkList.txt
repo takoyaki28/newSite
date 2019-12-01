@@ -1,4 +1,4 @@
-<div class="item_box clear_fix 201912 service good new">
+<div class="item_box clear_fix 201912 item good new">
                 <img src="https://kimachk.com/contents/img/blogimg/20191201_01_01.jpg" alt="買ってよかった暮らしを便利にするグッズ【2019年おすすめ】"/>
                 <div class="detail"　style="height:100%">
                         <p>買ってよかった暮らしを便利にするグッズ【2019年おすすめ】</p>
