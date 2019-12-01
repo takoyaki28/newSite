@@ -1,3 +1,11 @@
+<div class="item_box clear_fix 201912 service good new">
+                <img src="https://kimachk.com/contents/img/blogimg/20191201_01_01.jpg" alt="買ってよかった暮らしを便利にするグッズ【2019年おすすめ】"/>
+                <div class="detail"　style="height:100%">
+                        <p>買ってよかった暮らしを便利にするグッズ【2019年おすすめ】</p>
+                        <span class="red">投稿日：2019/12/01</span>
+                        <a href="https://kimachk.com/contents/201912/20191201_01.html">リンク</a>
+                </div>
+</div>
 <div class="item_box clear_fix 201911 service good new">
                 <img src="https://kimachk.com/contents/img/blogimg/20191127_01_01.jpg" alt="amazonプライム会員の特典は何？家族で共有もできます"/>
                 <div class="detail"　style="height:100%">
