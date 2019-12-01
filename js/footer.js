@@ -22,6 +22,7 @@ $(function(){
       '<a href="https://kimachk.com/contents/201911/20191115_01.html" class="portfolio-popup"style="height: 100%;"><img src="https://kimachk.com/contents/img/blogimg/20191115_01_01.jpg" alt="" style="height: 100%;"><div class="portfolio-overlay"></div></a>',
       '<a href="https://kimachk.com/contents/201911/20191125_01.html" class="portfolio-popup"style="height: 100%;"><img src="https://kimachk.com/contents/img/blogimg/20191125_01_01.jpg" alt="" style="height: 100%;"><div class="portfolio-overlay"></div></a>',
       '<a href="https://kimachk.com/contents/201911/20191127_01.html" class="portfolio-popup"style="height: 100%;"><img src="https://kimachk.com/contents/img/blogimg/20191127_01_01.jpg" alt="" style="height: 100%;"><div class="portfolio-overlay"></div></a>',
+      '<a href="https://kimachk.com/contents/201912/20191201_01.html" class="portfolio-popup"style="height: 100%;"><img src="https://kimachk.com/contents/img/blogimg/20191201_01_01.jpg" alt="" style="height: 100%;"><div class="portfolio-overlay"></div></a>',
       '<a href="https://kimachk.com/contents/201911/20191118_01.html" class="portfolio-popup"style="height: 100%;"><img src="https://kimachk.com/contents/img/blogimg/20191118_01_01.jpg" alt="" style="height: 100%;"><div class="portfolio-overlay"></div></a>'
     ];
 
