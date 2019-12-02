@@ -741,9 +741,10 @@ hr {
 .detail p{
   font-family: 'Lato', sans-serif; 
   font-weight: bold;
-  font-size: 14px;
+  font-size: 12px;
   color: #080808;
-  line-height: 20px;
+  line-height: 18px;
+  margin-bottom: 12px;
 }
 
 .facebook{
