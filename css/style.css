@@ -317,7 +317,7 @@ hr {
 
 .news {
   background-position: center;
-  background-image: url('../img/news-bg.jpg');
+  /*background-image: url('../img/news-bg.jpg');*/
   background-size: cover;
 }
 
