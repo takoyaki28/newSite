@@ -957,3 +957,15 @@ table{
 .thead-light{
   background: #f8e5e5;
 }
+
+.yokonarabi{
+  display: inline-block;
+  width:47%;
+}
+
+@media screen and (max-width: 768px) {
+  .yokonarabi{
+    display: block;
+    width:95%;
+  }
+}
