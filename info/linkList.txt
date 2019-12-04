@@ -113,7 +113,7 @@
 <div class="item_box clear_fix 201911 service new">
                 <img src="https://kimachk.com/contents/img/blogimg/20191110_01_01.jpg" alt="インターネットでお仕事の依頼？商品のレビュー依頼もできるよ！"/>
                 <div class="detail"　style="height:100%">
-                        <p>イインターネットでお仕事の依頼？商品のレビュー依頼もできるよ！</p>
+                        <p>インターネットでお仕事の依頼？商品のレビュー依頼もできるよ！</p>
                         <span class="red">投稿日：2019/11/10</span>
                         <a href="https://kimachk.com/contents/201911/20191110_01.html">リンク</a>
                 </div>
