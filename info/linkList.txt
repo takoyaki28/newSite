@@ -111,9 +111,9 @@
                 </div>
 </div>
 <div class="item_box clear_fix 201911 service new">
-                <img src="https://kimachk.com/contents/img/blogimg/20191110_01_01.jpg" alt="インターネットでお仕事の依頼。作業を任せて楽をする！"/>
+                <img src="https://kimachk.com/contents/img/blogimg/20191110_01_01.jpg" alt="インターネットでお仕事の依頼？商品のレビュー依頼もできるよ！"/>
                 <div class="detail"　style="height:100%">
-                        <p>インターネットでお仕事の依頼。作業を任せて楽をする！</p>
+                        <p>イインターネットでお仕事の依頼？商品のレビュー依頼もできるよ！</p>
                         <span class="red">投稿日：2019/11/10</span>
                         <a href="https://kimachk.com/contents/201911/20191110_01.html">リンク</a>
                 </div>
@@ -137,7 +137,7 @@
 <div class="item_box clear_fix 201911 item new">
                 <img src="https://kimachk.com/contents/img/blogimg/20191104_02_01.jpg" alt="いい枕"/>
                 <div class="detail"　style="height:100%">
-                        <p>横向きに寝ると肩が痛い？どの向きで寝ても高さが一定の枕で解決。</p>
+                        <p>横向きに寝ると肩が痛い？どの向きで寝ても高さが一定の枕で解決【六角脳枕の感想あり】</p>
                         <span class="red">投稿日：2019/11/04</span>
                         <a href="https://kimachk.com/contents/201911/20191104_02.html">リンク</a>
                 </div>
@@ -145,7 +145,7 @@
 <div class="item_box clear_fix 201911 seikatu good new">
                 <img src="https://kimachk.com/contents/img/blogimg/20191104_01_01.jpg" alt="汚れ落としを楽にしたい"/>
                 <div class="detail"　style="height:100%">
-                        <p>汚れの種類と洗剤。種類によって変えることで楽に汚れ落とし！</p>
+                        <p>洗剤の種類と選び方！汚れによって変えることで楽に汚れ落とし</p>
                         <span class="red">投稿日：2019/11/04</span>
                         <a href="https://kimachk.com/contents/201911/20191104_01.html">リンク</a>
                 </div>
@@ -161,7 +161,7 @@
 <div class="item_box clear_fix 201911 seikatu good new">
                 <img src="https://kimachk.com/contents/img/blogimg/20191103_01_01.jpg" alt="片付けを楽に"/>
                 <div class="detail"　style="height:100%">
-                        <p>片付けを楽に。捨てて捨てて捨てまくるのがコツ。</p>
+                        <p>片付けを簡単に。捨てて捨てて捨てまくるのがコツ。</p>
                         <span class="red">投稿日：2019/11/03</span>
                         <a href="https://kimachk.com/contents/201911/20191103_01.html">リンク</a>
                 </div>
@@ -209,7 +209,7 @@
 <div class="item_box clear_fix 201910 kangae new">
         <img src="https://kimachk.com/contents/img/blogimg/20191028_01_01.jpg" alt="楽をするって？"/>
         <div class="detail"　style="height:100%">
-                <p>楽をすることは手を抜くこと？</p>
+                <p>楽をしたい！それって手を抜くこと？</p>
                 <span class="red">投稿日：2019/10/28</span>
                 <a href="https://kimachk.com/contents/201910/20191028_01.html">リンク</a>
         </div>
@@ -225,7 +225,7 @@
 <div class="item_box clear_fix 201910 item new">
         <img src="https://kimachk.com/contents/img/blogimg/20191027_01_01.jpg" alt="簡単なスキンケア"/>
         <div class="detail">
-                <p>面倒なスキンケアを時短。NULL オールインワン化粧水ミストで楽に保湿</p>
+                <p>スキンケアが面倒？NULL オールインワン化粧水ミストで楽に保湿</p>
                 <span class="red">投稿日：2019/10/27</span>
                 <a href="https://kimachk.com/contents/201910/20191027_01.html">リンク</a>
         </div>
