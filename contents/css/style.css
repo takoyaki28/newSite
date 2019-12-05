@@ -763,6 +763,10 @@ hr {
   display: inline-block;
   width: 40px;
 }
+.lank{
+  display: inline-block;
+  width: 120px;
+}
 
 #buy {
   background-color: rgb(158, 188, 247);
