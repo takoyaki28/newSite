@@ -64,6 +64,10 @@ $(function (){
         $('#txtLoadmain4').append($(data).filter('.new')[3]);
         $('#txtLoadmain5').append($(data).filter('.new')[4]);
         $('#txtLoadmain6').append($(data).filter('.new')[5]);
+        $('#txtLoadhima').append($(data).filter('.hima')[0]);
+        $('#txtLoadhima2').append($(data).filter('.hima')[1]);
+        $('#txtLoadhima3').append($(data).filter('.hima')[2]);
+        $('#txtLoadhima4').append($(data).filter('.hima')[3]);
       },
   });
 });

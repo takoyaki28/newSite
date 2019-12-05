@@ -7,9 +7,9 @@
                 </div>
 </div>
 <div class="item_box clear_fix 201912 item good new">
-                <img src="https://kimachk.com/contents/img/blogimg/20191201_01_01.jpg" alt="買ってよかった暮らしを便利にするグッズ【2019年おすすめ】"/>
+                <img src="https://kimachk.com/contents/img/blogimg/20191201_01_01.jpg" alt="買ってよかったもの、暮らしを便利にするグッズ【2019年おすすめ】"/>
                 <div class="detail"　style="height:100%">
-                        <p>買ってよかった暮らしを便利にするグッズ【2019年おすすめ】</p>
+                        <p>買ってよかったもの、暮らしを便利にするグッズ【2019年おすすめ】</p>
                         <span class="red">投稿日：2019/12/01</span>
                         <a href="https://kimachk.com/contents/201912/20191201_01.html">リンク</a>
                 </div>
@@ -62,7 +62,7 @@
                         <a href="https://kimachk.com/contents/201911/20191118_01.html">リンク</a>
                 </div>
 </div>
-<div class="item_box clear_fix torendo">
+<div class="item_box clear_fix">
                 <img src="https://kimachk.com/contents/img/blogimg/20191117_02_01.jpg" alt="三所攻めの意味と由来を解説！26年ぶりに決まった決まり手。"/>
                 <div class="detail"　style="height:100%">
                         <p>三所攻めの意味と由来を解説！26年ぶりに決まった決まり手。</p>
@@ -70,7 +70,7 @@
                         <a href="https://kimachk.com/contents/201911/20191117_02.html">リンク</a>
                 </div>
 </div>
-<div class="item_box clear_fix torendo">
+<div class="item_box clear_fix hima">
                 <img src="https://kimachk.com/contents/img/blogimg/20191117_01_01.jpg" alt="スター・ウォーズのロケ地、サハラ砂漠はどんなところ？【景色の画像あり】"/>
                 <div class="detail"　style="height:100%">
                         <p>スター・ウォーズのロケ地、サハラ砂漠はどんなところ？【景色の画像あり】</p>
@@ -94,7 +94,7 @@
                         <a href="https://kimachk.com/contents/201911/20191115_01.html">リンク</a>
                 </div>
 </div>
-<div class="item_box clear_fix 201911 kangae new">
+<div class="item_box clear_fix 201911 hima">
                 <img src="https://kimachk.com/contents/img/blogimg/20191113_01_01.jpg" alt="【ずとまよ】疲れたら心が震える曲を聞こう【ずっと真夜中でいいのに。】"/>
                 <div class="detail"　style="height:100%">
                         <p>【ずとまよ】疲れたら心が震える曲を聞こう【ずっと真夜中でいいのに。】</p>
@@ -102,7 +102,7 @@
                         <a href="https://kimachk.com/contents/201911/20191113_01.html">リンク</a>
                 </div>
 </div>
-<div class="item_box clear_fix 201911 kangae new">
+<div class="item_box clear_fix 201911 hima new">
                 <img src="https://kimachk.com/contents/img/blogimg/20191111_01_01.jpg" alt="生きづらいと感じる。そんな時は心の境界線を意識する"/>
                 <div class="detail"　style="height:100%">
                         <p>生きづらいと感じる。どうしたらいいのか？そんな時は心の境界線を意識する</p>
@@ -174,7 +174,7 @@
                         <a href="https://kimachk.com/contents/201911/20191102_01.html">リンク</a>
                 </div>
 </div>
-<div class="item_box clear_fix 201911 kangae new">
+<div class="item_box clear_fix 201911 hima new">
                 <img src="https://kimachk.com/contents/img/blogimg/20191101_01_01.jpg" alt="不安を楽に"/>
                 <div class="detail"　style="height:100%">
                         <p>指摘されたら全否定された気持ちになる。そんな気持ちを少しでも楽にする考え方</p>
@@ -182,7 +182,7 @@
                         <a href="https://kimachk.com/contents/201911/20191101_01.html">リンク</a>
                 </div>
 </div>
-<div class="item_box clear_fix 201910 kangae new">
+<div class="item_box clear_fix 201910 hima new">
                 <img src="https://kimachk.com/contents/img/blogimg/20191031_01_01.jpg" alt="時短"/>
                 <div class="detail"　style="height:100%">
                         <p>【少しでも】結果が同じなら時短しよう【楽したい】</p>
@@ -206,7 +206,7 @@
                 <a href="https://kimachk.com/contents/201910/20191029_01.html">リンク</a>
         </div>
 </div>
-<div class="item_box clear_fix 201910 kangae new">
+<div class="item_box clear_fix 201910 hima new">
         <img src="https://kimachk.com/contents/img/blogimg/20191028_01_01.jpg" alt="楽をするって？"/>
         <div class="detail"　style="height:100%">
                 <p>楽をしたい！それって手を抜くこと？</p>
