@@ -1,3 +1,11 @@
+<div class="item_box clear_fix 201912 good hima">
+                <img src="https://kimachk.com/contents/img/blogimg/20191205_01_01.jpg" alt="【爆笑】パワーワードまとめ50選【インパクト】"/>
+                <div class="detail"　style="height:100%">
+                        <p>【爆笑】パワーワードまとめ50選【インパクト】</p>
+                        <span class="red">投稿日：2019/12/05</span>
+                        <a href="https://kimachk.com/contents/201912/20191205_01.html">リンク</a>
+                </div>
+</div>
 <div class="item_box clear_fix 201912 ref good new">
                 <img src="https://kimachk.com/contents/img/blogimg/20191204_01_01.jpg" alt="カーサカーサとアルモニアのソファ クルーゼロの正規品の取り扱いは？模倣品には注意しよう"/>
                 <div class="detail"　style="height:100%">
