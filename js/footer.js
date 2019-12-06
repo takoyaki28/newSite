@@ -49,3 +49,13 @@ $(function(){
     linklist.splice(no,1);
 
   });
+
+  function arcF(){
+    obj = $("#linkselectA").val();
+    window.location.href = "https://kimachk.com/arc#"+obj;
+  }
+
+  function categoryF(){
+    obj = $("#linkselectC").val();
+    window.location.href = "https://kimachk.com/category#"+obj;
+  }

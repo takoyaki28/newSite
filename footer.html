@@ -6,7 +6,7 @@
       <meta content="width=device-width, initial-scale=1.0" name="viewport">
       <meta content="気まぐれチェック,フッター" name="keywords">
       <meta content="気まぐれに楽に生きる方法をチェックする「気まぐれチェック」：フッター" name="description">
-  </head>
+      </head>
   <body>
     <footer>
       <br>
@@ -55,8 +55,16 @@
               <div class="col-md-3">
                 <h5 class="centered">アーカイブ</h5>
                 <hr class="aligncenter mb">
-                <a href="https://kimachk.com/arc.html"><div class="centered mb"><i class="ion-android-arrow-dropright"></i>　過去のチェックを日付から検索</div></a>
-
+                <div class="centered cp_ipselect cp_sl02" style="width:90%">
+                  <select id="linkselectA" onchange="arcF()">
+                      <option value="">選択して下さい</option>
+                      <option value="201912">2019年12月の記事</option>
+                      <option value="201911">2019年11月の記事</option>
+                      <option value="201910">2019年10月の記事</option>
+                  </select>
+                </div>
+                <!--<a href="https://kimachk.com/arc.html"><div class="centered mb"><i class="ion-android-arrow-dropright"></i>　過去のチェックを日付から検索</div></a>
+                -->
               </div>
               <div class="col-md-1 centered">
                 <i class="icon ion-ios-paper-outline"></i>
@@ -64,8 +72,18 @@
               <div class="col-md-3">
                 <h5 class="centered">カテゴリー</h5>
                 <hr class="aligncenter mb">
-                <a href="https://kimachk.com/category.html"><div class="centered mb"><i class="ion-android-arrow-dropright"></i>　過去のチェックをカテゴリーから検索</div></a>
-
+                <div class="centered cp_ipselect cp_sl02" style="width:90%">
+                  <select id="linkselectC" onchange="categoryF()">
+                      <option value="">選択して下さい</option>
+                      <option value="seikatu">生活・暮らし</option>
+                      <option value="item">便利グッズ</option>
+                      <option value="service">便利サービス</option>
+                      <option value="ref">住まいとリフォーム</option>
+                      <option value="hima">暇つぶし</option>
+                  </select>
+                </div>
+                <!--<a href="https://kimachk.com/category.html"><div class="centered mb"><i class="ion-android-arrow-dropright"></i>　過去のチェックをカテゴリーから検索</div></a>
+                -->
               </div>
               <div class="col-md-1 centered">
                 <i class="icon ion-ios-paper-outline"></i>

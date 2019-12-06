@@ -46,6 +46,18 @@ $(function(){
   $("#footer").load("footer.html");
 });
 
+$(function(){
+  // URLのアンカー（#以降の部分）を取得
+  var urlHash = location.hash;
+  var prm = urlHash.slice( 1 ) ;
+  // URLにアンカーが存在する場合
+  if(urlHash){
+    document.getElementById('linkselect').value = prm;
+  }
+});
+
+
+
 //おすすめページリンク
 $(function(){
 	//テキストの読み込み
