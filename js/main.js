@@ -87,8 +87,34 @@ $(function (){
 
 //アーカイブの月選択
 function arc(){
+
+  //$("#txtLoad").load("info/linkList.txt "+"."+obj).addClass("item_box_width");
+
+
+  tagu1='<div class="container"> <div class="row"><div class="col-md-4 width95"><div class="centered"><p class="txt" style="margin-bottom:0;">';
+  tagu2='</p></div></div><div class="col-md-4 width95"><div class="centered"><p class="txt" style="margin-bottom:0;">';
+  tagu3='</p></div></div></div></div>';
+
   obj = $("#linkselect").val();
-  $("#txtLoad").load("info/linkList.txt "+"."+obj).addClass("item_box_width");
+  if(obj!=''){
+    $('.shiro').hide();
+  }
+
+
+  $.ajax({
+    url　: 'info/linkList.txt',
+    dataType : 'html',
+    success　: function(data){
+      obj = $("#linkselect").val();
+      for(i=0;i<$(data).filter('.'+obj).length;i++){
+        tagumain=$(data).filter('.'+obj)[i];
+        $('#txtLoad').append(tagumain);
+      }
+    },
+  });
+
+
+
 }
 
 //カテゴリー選択
