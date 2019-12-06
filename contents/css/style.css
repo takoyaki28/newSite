@@ -1066,7 +1066,7 @@ table{
   width: 100%;
   text-align: left;
 }
-.says {
+.says2 {
   display: inline-block;
   position: relative; 
   margin: 0 0 0 50px;
@@ -1076,7 +1076,7 @@ table{
   background: #edf1ee;
 }
 
-.says:after {
+.says2:after {
   content: "";
   display: inline-block;
   position: absolute;
@@ -1087,7 +1087,7 @@ table{
   -webkit-transform: rotate(35deg);
   transform: rotate(35deg);
 }
-.says p {
+.says2 p {
   margin: 0;
   padding: 0;
 }
