@@ -1,3 +1,11 @@
+<div class="item_box clear_fix 201912 good service new">
+                <img src="https://kimachk.com/contents/img/blogimg/20191206_01_01.jpg" alt="Amazonレビューのサクラや業者の見分け方２つ！これであなたは騙されない"/>
+                <div class="detail"　style="height:100%">
+                        <p>Amazonレビューのサクラや業者の見分け方２つ！これであなたは騙されない</p>
+                        <span class="red">投稿日：2019/12/06</span>
+                        <a href="https://kimachk.com/contents/201912/20191206_01.html">リンク</a>
+                </div>
+</div>
 <div class="item_box clear_fix 201912 good hima">
                 <img src="https://kimachk.com/contents/img/blogimg/20191205_01_01.jpg" alt="【爆笑】パワーワードまとめ50選【インパクト】"/>
                 <div class="detail"　style="height:100%">

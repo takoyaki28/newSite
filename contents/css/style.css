@@ -1034,12 +1034,30 @@ table{
 }
 
 .greylist, .greylistol {
-  background: #dadada;/*灰色に*/
+  background: #d7ebfe;
   border-radius :8px;
-  box-shadow :0px 0px 5px silver;
-  padding: 0.5em 0.5em 0.5em 2em;
+  padding: 1em 1em 0.5em 3em;
+  border: solid 2px gray;/*線の種類 太さ 色*/
 }
 .greylist li, .greylistol li {
   line-height: 1.5;
-  padding: 0.5em 0;
+  padding: 0.2em 0;
+  color: #070707;
+  font-size: 16px;
+}
+
+.mokujilist, .mokujilistol {
+  padding: 0.5em 1em;
+  background: #f3f3f3;
+  border-top: solid 5px #5d627b;
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.22);
+  border-radius :8px;
+  border: solid 2px gray;/*線の種類 太さ 色*/
+  list-style:none;
+}
+.mokujilist li, .mokujilistol li {
+  line-height: 1.5;
+  padding: 0.2em 0;
+  color: #070707;
+  font-size: 16px;
 }
