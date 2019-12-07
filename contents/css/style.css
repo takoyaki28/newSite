@@ -1046,6 +1046,10 @@ table{
   font-size: 16px;
 }
 
+.listN{
+  list-style:none;
+}
+
 .mokujilist, .mokujilistol {
   padding: 0.5em 1em;
   background: #f3f3f3;
