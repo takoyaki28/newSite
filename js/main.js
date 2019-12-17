@@ -42,8 +42,8 @@ window.addEventListener("pageshow",function(){
 
 //初期表示時のhtml読み込み
 $(function(){
-  $("#header").load("header.html");
   $("#footer").load("footer.html");
+  $("#side").load("info/side.txt");
 });
 
 $(function(){
