@@ -20,7 +20,8 @@ $(function (){
       dataType : 'html',
       success　: function(data){
         var no = Math.floor(Math.random() * linklist.length);
-        document.getElementById("link1").innerHTML=$(data).filter('.portfolio-popup')[no];
+        //document.getElementById("link1").innerHTML=$(data).filter('.portfolio-popup')[no];
+        document.getElementById("link1").append($(data).filter('.portfolio-popup')[no]);
         linklist.splice(no,1);
         no = Math.floor(Math.random() * linklist.length);
         document.getElementById("link2").innerHTML=$(data).filter('.portfolio-popup')[no];
