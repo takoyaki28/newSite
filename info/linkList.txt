@@ -206,14 +206,6 @@
                         <a href="https://kimachk.com/contents/201911/20191101_01.html">リンク</a>
                 </div>
 </div>
-<div class="item_box clear_fix 201910 hima new">
-                <img src="https://kimachk.com/contents/img/blogimg/20191031_01_01.jpg" alt="時短"/>
-                <div class="detail"　style="height:100%">
-                        <p>【少しでも】結果が同じなら時短しよう【楽したい】</p>
-                        <span class="red">投稿日：2019/10/31</span>
-                        <a href="https://kimachk.com/contents/201910/20191031_01.html">リンク</a>
-                </div>
-</div>
 <div class="item_box clear_fix 201910 item new">
         <img src="https://kimachk.com/contents/img/blogimg/20191030_01_01.jpg" alt="ホットサンドメーカーで餅を焼く。簡単朝食づくり。"/>
         <div class="detail"　style="height:100%">
@@ -228,14 +220,6 @@
                 <p>べたつかない、香りがよいヘアクリームで髪を整える</p>
                 <span class="red">投稿日：2019/10/29</span>
                 <a href="https://kimachk.com/contents/201910/20191029_01.html">リンク</a>
-        </div>
-</div>
-<div class="item_box clear_fix 201910 hima new">
-        <img src="https://kimachk.com/contents/img/blogimg/20191028_01_01.jpg" alt="楽をするって？"/>
-        <div class="detail"　style="height:100%">
-                <p>楽をしたい！それって手を抜くこと？</p>
-                <span class="red">投稿日：2019/10/28</span>
-                <a href="https://kimachk.com/contents/201910/20191028_01.html">リンク</a>
         </div>
 </div>
 <div class="item_box clear_fix 201910 seikatu new">
