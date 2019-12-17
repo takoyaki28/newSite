@@ -19,21 +19,21 @@ $(function (){
       url　: 'info/footer.txt',
       dataType : 'html',
       success　: function(data){
-        var no = Math.floor(Math.random() * linklist.length);
-        //document.getElementById("link1").innerHTML=$(data).filter('.portfolio-popup')[no];
-        $('#link1').append($(data)[no]);
+        var no = Math.floor(Math.random() * $(data).filter('.portfolio-popup').length);
+
+        $('#link1').append($(data).filter('.portfolio-popup')[no]);
         linklist.splice(no,1);
         no = Math.floor(Math.random() * linklist.length);
-        document.getElementById("link2").innerHTML=$(data).filter('.portfolio-popup')[no];
+        $('#link2').append($(data).filter('.portfolio-popup')[no]);
         linklist.splice(no,1);
         no = Math.floor(Math.random() * linklist.length);
-        document.getElementById("link3").innerHTML=$(data).filter('.portfolio-popup')[no];
+        $('#link3').append($(data).filter('.portfolio-popup')[no]);
         linklist.splice(no,1);
         no = Math.floor(Math.random() * linklist.length);
-        document.getElementById("link4").innerHTML=$(data).filter('.portfolio-popup')[no];
+        $('#link4').append($(data).filter('.portfolio-popup')[no]);
         linklist.splice(no,1);
         no = Math.floor(Math.random() * linklist.length);
-        document.getElementById("link5").innerHTML=$(data).filter('.portfolio-popup')[no];
+        $('#link5').append($(data).filter('.portfolio-popup')[no]);
         linklist.splice(no,1);
       },
   });
