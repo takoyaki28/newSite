@@ -711,6 +711,59 @@ nm {
   }
 }
 
+
+
+/*追加*/
+
+.item_box2{
+  position:relative;
+  width:450px;
+  height:125px;
+  padding:1%;
+  border:solid 1px #CCC;
+  margin-bottom:20px;
+  background-color: #E9EAEC;
+  overflow: hidden;
+}
+
+.item_box2 a{
+  position:absolute;
+  top:0;
+  left:0;
+  width:100%;
+  height:100%;
+  text-indent:-999px;
+}
+
+.item_box2 img{
+  display:block;
+  height:100%;
+  width:45%;
+  float:left;
+}
+
+.item_box2 .detail{
+  width:50%;
+  margin-left:4%;
+  float:left;
+}
+
+
+.item_box2:hover{
+  background-color: #e0d4f5;
+}
+
+@media only screen and (max-width: 768px) {
+  .item2_box{
+    width:320px;
+    height:100px;
+    overflow: hidden;
+  }
+}
+
+
+
+
 /* セレクトボックス */
 .cp_ipselect {
 	overflow: hidden;
@@ -816,6 +869,7 @@ nm {
   margin: 0px;
 }
 
+
 .orborder{
   border: 1px solid #250fe4;
   background: #fffefe;
@@ -866,4 +920,10 @@ nm {
     width:100%;
     height:100%;
   }
+}
+
+.fontsizeup2{
+  font-size: 18px;
+  padding-left: 10px;
+  text-align: left;
 }

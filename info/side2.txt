@@ -15,14 +15,21 @@
   </p>
 </div>
 <br>
-<div class="centered orborder" style="width:100%">
+<div class="orborder" style="width:100%">
     <div class="side2" style="width:100%">
-      おすすめ記事
+      カテゴリー
     </div>
-    <div class="fontsizeup">
-      <a href="https://kimachk.com/contents/201911/20191109_01.html"><i class="ion-android-arrow-dropright"></i>　家事を楽にするグッズ50選。見つけたいものが見つかる。</a>
+    <div class="fontsizeup2">
+      <a href="https://kimachk.com/webdesign/html.html"><i class="ion-android-arrow-dropright"></i>　HTML</a><br>
+      <a href="https://kimachk.com/webdesign/css.html"><i class="ion-android-arrow-dropright"></i>　CSS</a>
+    </div>          
+</div>
+<br>
+<div class="orborder" style="width:100%">
+    <div class="side2" style="width:100%">
+      気まぐれチェック
     </div>
-    <div class="fontsizeup">
-      <a href="https://kimachk.com/contents/201911/20191115_01.html"><i class="ion-android-arrow-dropright"></i>　ネットワークビジネスに勧誘された体験談。見分け方もご紹介！</a>
-    </div>                
-</div>    
+    <div class="fontsizeup2">
+      <a href="https://kimachk.com/"><i class="ion-android-arrow-dropright"></i>　暮らしと生活</a>
+    </div>            
+</div>     
