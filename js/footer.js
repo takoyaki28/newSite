@@ -19,21 +19,25 @@ $(function (){
       url　: 'info/footer.txt',
       dataType : 'html',
       success　: function(data){
-        var no = Math.floor(Math.random() * $(data).filter('.portfolio-popup').length);
+        linklist=$(data).filter('.portfolio-popup');
+        var no = Math.floor(Math.random() * linklist.length);
 
-        $('#link1').append($(data).filter('.portfolio-popup')[no]);
+        alert($(data).filter('.portfolio-popup').length);
+        alert(no);
+
+        $('#link1').append(linklist[no]);
         linklist.splice(no,1);
         no = Math.floor(Math.random() * linklist.length);
-        $('#link2').append($(data).filter('.portfolio-popup')[no]);
+        $('#link2').append(linklist[no]);
         linklist.splice(no,1);
         no = Math.floor(Math.random() * linklist.length);
-        $('#link3').append($(data).filter('.portfolio-popup')[no]);
+        $('#link3').append(linklist[no]);
         linklist.splice(no,1);
         no = Math.floor(Math.random() * linklist.length);
-        $('#link4').append($(data).filter('.portfolio-popup')[no]);
+        $('#link4').append(linklist[no]);
         linklist.splice(no,1);
         no = Math.floor(Math.random() * linklist.length);
-        $('#link5').append($(data).filter('.portfolio-popup')[no]);
+        $('#link5').append(linklist[no]);
         linklist.splice(no,1);
       },
   });
