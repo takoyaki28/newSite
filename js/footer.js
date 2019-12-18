@@ -21,10 +21,6 @@ $(function (){
       success　: function(data){
         linklist=$(data).filter('.portfolio-popup');
         var no = Math.floor(Math.random() * linklist.length);
-
-        alert($(data).filter('.portfolio-popup').length);
-        alert(no);
-
         $('#link1').append(linklist[no]);
         linklist.splice(no,1);
         no = Math.floor(Math.random() * linklist.length);
