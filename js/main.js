@@ -44,8 +44,6 @@ window.addEventListener("pageshow",function(){
 $(function(){
   $("#footer").load("footer.html");
   $("#side").load("info/side.txt");
-  $("#footer2").load("webdesign-footer.html");
-  $("#side2").load("info/side2.txt");  
 });
 
 $(function(){
