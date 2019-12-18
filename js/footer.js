@@ -16,7 +16,7 @@ $(function(){
 //フッターリンク
 $(function (){
   $.ajax({
-      url　: 'info/footer.txt',
+      url　: 'https://kimachk.com/info/footer.txt',
       dataType : 'html',
       success　: function(data){
         linklist=$(data).filter('.portfolio-popup');
