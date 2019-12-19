@@ -1,3 +1,12 @@
+
+<div class="item_box clear_fix 201912 service new">
+        <img src="https://kimachk.com/contents/img/blogimg/20191219_01_01.jpg" alt="Amazonの新たなサクラ対策「日本からのレビューを見る」とは？まだまだ問題点は山積み"/>
+        <div class="detail"　style="height:100%">
+                <p>Amazonの新たなサクラ対策「日本からのレビューを見る」とは？まだまだ問題点は山積み</p>
+                <span class="red">投稿日：2019/12/19</span>
+                <a href="https://kimachk.com/contents/201912/20191219_01.html">リンク</a>
+        </div>
+</div>
 <div class="item_box clear_fix 201912 good hima">
         <img src="https://kimachk.com/contents/img/blogimg/20191207_01_01.jpg" alt="お笑いを無料で視聴できる動画サイト2選【M1グランプリや単独ライブも見放題】"/>
         <div class="detail"　style="height:100%">
