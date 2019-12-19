@@ -1,17 +1,17 @@
 $(function(){    
-    //SNSリンク作成
-    setSnsShare($("meta[property='og:url']").attr("content"),$("meta[property='og:title']").attr("content"));
-  });
+  //SNSリンク作成
+  setSnsShare($("meta[property='og:url']").attr("content"),$("meta[property='og:title']").attr("content"));
+});
 
-  function arcF(){
-    obj = $("#linkselectA").val();
-    window.location.href = "https://kimachk.com/arc#"+obj;
-  }
+function arcF(){
+  obj = $("#linkselectA").val();
+  window.location.href = "https://kimachk.com/arc#"+obj;
+}
 
-  function categoryF(){
-    obj = $("#linkselectC").val();
-    window.location.href = "https://kimachk.com/category#"+obj;
-  }
+function categoryF(){
+  obj = $("#linkselectC").val();
+  window.location.href = "https://kimachk.com/category#"+obj;
+}
 
 //フッターリンク
 $(function (){
