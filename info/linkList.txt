@@ -1,4 +1,11 @@
-
+<div class="item_box clear_fix 201912 seikatu new">
+        <img src="https://kimachk.com/contents/img/blogimg/20191220_01_01.jpg" alt="エアコンの業者さんにお茶を出す？出されたら嬉しいのか聞いてみた"/>
+        <div class="detail"　style="height:100%">
+                <p>エアコンの業者さんにお茶を出す？出されたら嬉しいのか聞いてみた</p>
+                <span class="red">投稿日：2019/12/20</span>
+                <a href="https://kimachk.com/contents/201912/20191220_01.html">リンク</a>
+        </div>
+</div>
 <div class="item_box clear_fix 201912 service new">
         <img src="https://kimachk.com/contents/img/blogimg/20191219_01_01.jpg" alt="Amazonの新たなサクラ対策「日本からのレビューを見る」とは？まだまだ問題点は山積み"/>
         <div class="detail"　style="height:100%">
